@@ -1,0 +1,1091 @@
+[09/09/19, 21:26:14:250] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/09/19, 21:26:14:259] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/09/19, 21:26:14:238      ║
+[09/09/19, 21:26:14:259] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/09/19, 21:26:15:253] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/09/19, 21:26:15:853] info: NetworkStatus: Waiting for network online…
+[09/09/19, 21:26:16:675] info: Read UUID from file successful
+{
+  "uuid": "0354bf9a-e196-5730-b520-4d44c18831b1"
+}
+[09/09/19, 21:26:16:850] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/09/19, 21:26:16:858] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/09/19, 21:26:19:055] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/09/19, 21:26:19:462] info: Store: SET_NETWORK_STATUS online
+[09/09/19, 21:26:19:468] info: Store: MAIN_WINDOW_SHOWN
+[09/09/19, 21:26:19:818] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[09/09/19, 21:26:37:835] info: Store: SIGN_IN_CANCELED
+[09/09/19, 21:26:37:837] info: Store: QUIT_APP
+[09/09/19, 21:26:37:893] info: Store: REMOVE_WINDOW 3
+[09/09/19, 21:26:39:011] info: Store: REMOVE_WINDOW 2
+[09/09/19, 21:26:39:182] info: Store: QUIT_APP
+[09/12/19, 16:01:06:644] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/12/19, 16:01:06:648] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/12/19, 16:01:06:636      ║
+[09/12/19, 16:01:06:648] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/12/19, 16:01:07:925] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/12/19, 16:01:09:452] info: NetworkStatus: Waiting for network online…
+[09/12/19, 16:01:10:277] info: Read UUID from file successful
+{
+  "uuid": "0354bf9a-e196-5730-b520-4d44c18831b1"
+}
+[09/12/19, 16:01:10:435] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/12/19, 16:01:10:448] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/12/19, 16:01:11:331] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/12/19, 16:01:11:734] info: Store: SET_NETWORK_STATUS online
+[09/12/19, 16:01:11:740] info: Store: MAIN_WINDOW_SHOWN
+[09/12/19, 16:01:11:951] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[09/12/19, 16:01:15:803] info: Store: SIGN_IN_CANCELED
+[09/12/19, 16:01:15:807] info: Store: QUIT_APP
+[09/12/19, 16:01:15:825] info: Store: REMOVE_WINDOW 3
+[09/12/19, 16:01:16:035] info: Store: REMOVE_WINDOW 2
+[09/12/19, 16:01:16:071] info: Store: QUIT_APP
+[09/13/19, 09:43:42:380] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/13/19, 09:43:42:381] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/13/19, 09:43:42:376      ║
+[09/13/19, 09:43:42:382] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/13/19, 09:43:43:510] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/13/19, 09:43:44:848] info: NetworkStatus: Waiting for network online…
+[09/13/19, 09:43:45:690] info: Read UUID from file successful
+{
+  "uuid": "0354bf9a-e196-5730-b520-4d44c18831b1"
+}
+[09/13/19, 09:43:45:831] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/13/19, 09:43:45:835] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/13/19, 09:43:47:793] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/13/19, 09:43:48:199] info: Store: SET_NETWORK_STATUS online
+[09/13/19, 09:43:48:203] info: Store: MAIN_WINDOW_SHOWN
+[09/13/19, 09:43:48:823] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[09/13/19, 09:47:05:947] info: Store: ADD_NEW_TEAM
+{
+  "id": "UMREG73RQ",
+  "team_id": "T077KKCG6"
+}
+[09/13/19, 09:47:06:255] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "unloaded",
+  "teamId": "T077KKCG6"
+}
+[09/13/19, 09:47:06:707] info: Store: SIGN_IN_CANCELED
+[09/13/19, 09:47:06:710] info: Store: REMOVE_WINDOW 3
+[09/13/19, 09:47:06:712] info: Store: REMOVE_WINDOW 3
+[09/13/19, 09:47:08:662] info: Store: SET_FULL_SCREEN
+[09/13/19, 09:47:08:676] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[09/13/19, 09:47:09:097] info: Store: SET_FULL_SCREEN
+[09/13/19, 09:47:09:343] info: Store: SET_FULL_SCREEN
+[09/13/19, 09:47:10:048] info: Store: SET_FULL_SCREEN
+[09/13/19, 09:47:24:061] info: Store: UPDATE_SETTINGS
+{
+  "userTheme": "light"
+}
+[09/13/19, 09:47:24:147] info: Store: UPDATE_SETTINGS
+{
+  "systemThemeSyncEnabled": false
+}
+[09/13/19, 09:47:26:175] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "loaded",
+  "teamId": "T077KKCG6"
+}
+[09/13/19, 09:47:26:473] info: Store: SET_FULL_SCREEN
+[09/13/19, 09:47:26:956] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T077KKCG6"
+}
+[09/13/19, 09:47:27:901] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/13/19, 09:47:28:690] info: Store: SELECT_CHANNEL C077KNK28
+[09/13/19, 09:47:28:698] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/13/19, 09:47:28:865] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[09/13/19, 09:47:28:948] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T077KKCG6",
+  "theme": {
+    "active_item": "#1264A3",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#2BAC76",
+    "badge": "#CD2553",
+    "column_bg": "#3F0E40",
+    "hover_item": "#350D36",
+    "menu_bg": "#350d36",
+    "text_color": "#FFFFFF"
+  }
+}
+[09/13/19, 09:47:31:854] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 5,
+  "state": "webapp-loaded",
+  "teamId": "T077KKCG6"
+}
+[09/13/19, 09:47:32:365] info: Store: STORE_ENTERPRISE_ID_PAIR
+{
+  "enterpriseId": null,
+  "teamId": "T077KKCG6"
+}
+[09/13/19, 09:47:32:369] info: Store: STORE_API_TOKEN
+{
+  "teamId": "T077KKCG6",
+  "token": "xoxs-⋯"
+}
+[09/13/19, 09:47:58:654] info: Store: SET_FULL_SCREEN
+[09/13/19, 09:48:15:163] info: Store: SET_FULL_SCREEN
+[09/13/19, 09:48:16:006] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[09/13/19, 09:48:51:545] info: Store: SET_FULL_SCREEN
+[09/13/19, 09:49:57:252] info: Store: SET_FULL_SCREEN
+[09/13/19, 09:49:58:214] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[09/13/19, 09:50:00:337] info: Store: SELECT_CHANNEL GN47Z099B
+[09/13/19, 09:50:25:994] info: Store: SET_FULL_SCREEN
+[09/13/19, 10:29:52:070] info: Store: SET_SUSPEND_STATUS
+[09/13/19, 10:29:53:067] info: Store: SET_NETWORK_STATUS offline
+[09/13/19, 10:43:22:053] info: Store: SET_SUSPEND_STATUS true
+[09/13/19, 10:43:36:032] info: NetworkStatus: Waiting for network online…
+[09/13/19, 10:43:36:486] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/13/19, 10:43:36:486] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/13/19, 10:43:42:775] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/13/19, 10:43:43:277] info: Store: SET_NETWORK_STATUS online
+[09/13/19, 10:43:43:278] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/13/19, 10:43:45:295] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/13/19, 10:43:48:032] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/15/19, 15:49:29:686] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/15/19, 15:49:29:687] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/15/19, 15:49:29:682      ║
+[09/15/19, 15:49:29:687] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/15/19, 15:49:32:367] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/15/19, 15:49:33:350] info: NetworkStatus: Waiting for network online…
+[09/15/19, 15:49:37:115] info: Read UUID from file successful
+{
+  "uuid": "0354bf9a-e196-5730-b520-4d44c18831b1"
+}
+[09/15/19, 15:49:40:710] info: Don't start background client because T077KKCG6 is selected team
+[09/15/19, 15:49:44:250] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/15/19, 15:49:44:400] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/15/19, 15:49:47:512] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/15/19, 15:49:47:960] info: Store: SET_NETWORK_STATUS online
+[09/16/19, 16:37:52:570] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/16/19, 16:37:52:571] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/16/19, 16:37:52:566      ║
+[09/16/19, 16:37:52:571] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/16/19, 16:37:53:100] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/16/19, 16:37:53:509] info: NetworkStatus: Waiting for network online…
+[09/16/19, 16:37:54:456] info: Read UUID from file successful
+{
+  "uuid": "0354bf9a-e196-5730-b520-4d44c18831b1"
+}
+[09/16/19, 16:37:54:623] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/16/19, 16:37:54:627] info: Don't start background client because T077KKCG6 is selected team
+[09/16/19, 16:37:54:645] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/16/19, 16:37:54:915] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/16/19, 16:37:55:321] info: Store: SET_NETWORK_STATUS online
+[09/16/19, 16:38:29:690] info: Store: UPDATE_SETTINGS
+{
+  "userTheme": "light"
+}
+[09/16/19, 16:38:29:791] info: Store: UPDATE_SETTINGS
+{
+  "systemThemeSyncEnabled": false
+}
+[09/16/19, 16:38:31:579] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T077KKCG6"
+}
+[09/16/19, 16:38:31:638] info: Store: MAIN_WINDOW_SHOWN
+[09/16/19, 16:38:34:289] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T077KKCG6"
+}
+[09/16/19, 16:38:35:317] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/16/19, 16:38:35:912] info: Store: SELECT_CHANNEL GN47Z099B
+[09/16/19, 16:38:36:164] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/16/19, 16:38:36:745] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[09/16/19, 16:38:37:142] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T077KKCG6",
+  "theme": {
+    "active_item": "#1264A3",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#2BAC76",
+    "badge": "#CD2553",
+    "column_bg": "#3F0E40",
+    "hover_item": "#350D36",
+    "menu_bg": "#350d36",
+    "text_color": "#FFFFFF"
+  }
+}
+[09/16/19, 16:38:37:337] info: Store: SET_FULL_SCREEN
+[09/16/19, 16:38:37:340] info: Store: SET_FULL_SCREEN
+[09/16/19, 16:38:38:385] info: Store: SET_FULL_SCREEN
+[09/16/19, 16:38:38:804] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T077KKCG6"
+}
+[09/16/19, 16:38:39:565] info: Store: STORE_ENTERPRISE_ID_PAIR
+{
+  "enterpriseId": null,
+  "teamId": "T077KKCG6"
+}
+[09/16/19, 16:40:41:772] info: Store: SELECT_CHANNEL DNFNQV8J2
+[09/16/19, 16:43:24:183] info: Store: SELECT_CHANNEL DN48081RB
+[09/16/19, 16:43:28:376] info: Store: SELECT_CHANNEL GN47Z099B
+[09/16/19, 16:43:40:057] info: Store: SET_FULL_SCREEN
+[09/16/19, 17:42:17:140] info: Store: SELECT_TEAM T077KKCG6
+[09/16/19, 17:42:17:613] info: Store: FOREGROUND_APP
+[09/16/19, 17:42:17:809] info: Store: SET_FULL_SCREEN
+[09/16/19, 17:42:18:834] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[09/16/19, 17:42:21:454] info: Store: SELECT_CHANNEL DNFNQV8J2
+[09/16/19, 17:42:46:046] info: Store: SELECT_CHANNEL GN47Z099B
+[09/16/19, 17:43:44:206] info: Store: SELECT_CHANNEL DN48081RB
+[09/16/19, 17:43:56:892] info: Store: SELECT_CHANNEL GN47Z099B
+[09/16/19, 17:44:08:055] info: Store: SET_FULL_SCREEN
+[09/16/19, 17:47:30:861] info: Store: SET_SUSPEND_STATUS
+[09/16/19, 17:47:36:836] info: Store: SET_NETWORK_STATUS offline
+[09/17/19, 07:36:01:708] info: Store: SET_SUSPEND_STATUS true
+[09/17/19, 07:36:08:864] info: NetworkStatus: Waiting for network online…
+[09/17/19, 07:36:11:041] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/17/19, 07:36:11:664] info: Store: SET_NETWORK_STATUS online
+[09/17/19, 07:36:11:666] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/17/19, 07:36:19:887] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/17/19, 07:36:28:333] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/17/19, 09:24:09:274] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/17/19, 09:24:09:283] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/17/19, 09:24:09:264      ║
+[09/17/19, 09:24:09:283] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/17/19, 09:24:09:757] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/17/19, 09:24:10:472] info: NetworkStatus: Waiting for network online…
+[09/17/19, 09:24:11:332] info: Read UUID from file successful
+{
+  "uuid": "0354bf9a-e196-5730-b520-4d44c18831b1"
+}
+[09/17/19, 09:24:11:522] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/17/19, 09:24:11:535] info: Don't start background client because T077KKCG6 is selected team
+[09/17/19, 09:24:11:567] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/17/19, 09:24:12:641] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/17/19, 09:24:13:063] info: Store: SET_NETWORK_STATUS online
+[09/17/19, 09:24:19:907] info: Store: UPDATE_SETTINGS
+{
+  "userTheme": "light"
+}
+[09/17/19, 09:24:19:910] info: Store: UPDATE_SETTINGS
+{
+  "systemThemeSyncEnabled": false
+}
+[09/17/19, 09:24:21:673] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T077KKCG6"
+}
+[09/17/19, 09:24:21:677] info: Store: MAIN_WINDOW_SHOWN
+[09/17/19, 09:24:21:927] info: Store: SET_FULL_SCREEN
+[09/17/19, 09:24:21:932] info: Store: SET_FULL_SCREEN
+[09/17/19, 09:24:21:939] info: Store: SET_FULL_SCREEN
+[09/17/19, 09:24:22:010] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T077KKCG6"
+}
+[09/17/19, 09:24:22:947] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/17/19, 09:24:23:172] info: Store: SELECT_CHANNEL GN47Z099B
+[09/17/19, 09:24:23:496] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/17/19, 09:24:23:573] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[09/17/19, 09:24:23:623] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T077KKCG6",
+  "theme": {
+    "active_item": "#1264A3",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#2BAC76",
+    "badge": "#CD2553",
+    "column_bg": "#3F0E40",
+    "hover_item": "#350D36",
+    "menu_bg": "#350d36",
+    "text_color": "#FFFFFF"
+  }
+}
+[09/17/19, 09:24:24:030] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T077KKCG6"
+}
+[09/17/19, 09:24:24:252] info: Store: STORE_ENTERPRISE_ID_PAIR
+{
+  "enterpriseId": null,
+  "teamId": "T077KKCG6"
+}
+[09/17/19, 09:25:25:713] info: Store: SET_FULL_SCREEN
+[09/17/19, 09:25:27:696] info: Store: SET_FULL_SCREEN
+[09/17/19, 09:25:59:432] info: Store: SET_FULL_SCREEN
+[09/17/19, 09:36:43:304] info: Store: SET_FULL_SCREEN
+[09/17/19, 09:36:49:090] info: Store: SET_FULL_SCREEN
+[09/17/19, 09:49:46:679] info: Store: SET_FULL_SCREEN
+[09/17/19, 09:50:04:156] info: Store: SELECT_CHANNEL DNEHPVDHB
+[09/17/19, 09:53:00:055] info: Store: SET_FULL_SCREEN
+[09/17/19, 11:18:07:340] info: Store: NEW_NOTIFICATION
+{
+  "channel": "DNEHPVDHB",
+  "id": "JZ81i8hLlyOJ7nj",
+  "launchUri": "slack://channel?id=DNEHPVDHB&message=1568708287.002000&team=T077KKCG6",
+  "silent": true,
+  "teamId": "T077KKCG6"
+}
+[09/17/19, 11:18:13:187] info: Store: SET_FULL_SCREEN
+[09/17/19, 11:18:14:188] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[09/17/19, 11:18:26:789] info: Store: SET_FULL_SCREEN
+[09/17/19, 15:28:28:990] info: Store: SET_FULL_SCREEN
+[09/17/19, 15:28:29:978] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[09/17/19, 15:28:44:138] info: Store: SET_FULL_SCREEN
+[09/17/19, 17:29:17:900] info: Store: SET_SUSPEND_STATUS
+[09/17/19, 17:29:19:709] info: Store: SET_NETWORK_STATUS offline
+[09/18/19, 07:40:51:317] info: Store: SET_SUSPEND_STATUS true
+[09/18/19, 07:40:56:866] info: NetworkStatus: Waiting for network online…
+[09/18/19, 07:40:57:044] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/18/19, 07:40:57:046] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/18/19, 07:41:03:064] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/18/19, 07:41:03:442] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/18/19, 07:41:03:442] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/18/19, 07:41:04:033] info: Store: SET_NETWORK_STATUS online
+[09/18/19, 07:41:04:034] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/18/19, 09:33:02:511] info: Store: SET_SUSPEND_STATUS
+[09/18/19, 09:33:04:680] info: Store: SET_NETWORK_STATUS offline
+[09/18/19, 09:38:38:683] info: Store: SET_SUSPEND_STATUS true
+[09/18/19, 09:38:43:336] info: NetworkStatus: Waiting for network online…
+[09/18/19, 09:38:44:900] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/18/19, 09:38:44:903] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/18/19, 09:38:48:252] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/18/19, 09:38:48:549] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/18/19, 09:38:50:491] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/18/19, 09:38:51:194] info: Store: SET_NETWORK_STATUS online
+[09/18/19, 09:38:51:196] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/18/19, 11:37:20:327] info: Store: SET_FULL_SCREEN
+[09/18/19, 11:37:21:105] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[09/18/19, 11:37:23:147] info: Store: SELECT_CHANNEL GN47Z099B
+[09/18/19, 11:37:56:183] info: Store: SET_FULL_SCREEN
+[09/18/19, 11:38:18:817] info: Store: SET_FULL_SCREEN
+[09/18/19, 11:38:51:754] info: Store: SET_FULL_SCREEN
+[09/18/19, 15:18:38:961] info: Store: SET_FULL_SCREEN
+[09/18/19, 15:18:40:695] info: Store: SET_FULL_SCREEN
+[09/18/19, 17:02:34:573] info: Store: SET_FULL_SCREEN
+[09/18/19, 17:02:35:412] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[09/18/19, 17:02:39:548] info: Store: SELECT_CHANNEL DNEHPVDHB
+[09/18/19, 17:02:45:408] info: Store: SELECT_CHANNEL DN6QHNU7P
+[09/18/19, 17:02:47:247] info: Store: SELECT_CHANNEL DNEHPVDHB
+[09/18/19, 17:03:39:541] info: Store: SET_FULL_SCREEN
+[09/18/19, 17:47:04:665] info: Store: SET_SUSPEND_STATUS
+[09/18/19, 17:47:07:194] info: Store: SET_NETWORK_STATUS offline
+[09/19/19, 07:45:34:483] info: Store: SET_SUSPEND_STATUS true
+[09/19/19, 07:45:41:369] info: NetworkStatus: Waiting for network online…
+[09/19/19, 07:45:43:449] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/19/19, 07:45:44:207] info: Store: SET_NETWORK_STATUS online
+[09/19/19, 07:45:44:208] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/19/19, 07:45:45:236] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/19/19, 07:45:45:699] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/19/19, 09:58:28:742] info: Store: NEW_NOTIFICATION
+{
+  "channel": "DNEHPVDHB",
+  "id": "vgQwFEiAMwyqp3Z",
+  "launchUri": "slack://channel?id=DNEHPVDHB&message=1568876307.000300&team=T077KKCG6",
+  "silent": true,
+  "teamId": "T077KKCG6"
+}
+[09/19/19, 10:24:07:482] info: Store: SET_FULL_SCREEN
+[09/19/19, 10:24:09:427] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[09/19/19, 10:24:24:535] info: Store: SET_FULL_SCREEN
+[09/19/19, 14:51:55:491] info: Store: SET_FULL_SCREEN
+[09/19/19, 14:51:57:119] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[09/19/19, 14:52:11:007] info: Store: SELECT_CHANNEL GN47Z099B
+[09/19/19, 14:53:10:306] info: Store: SET_FULL_SCREEN
+[09/19/19, 14:58:34:427] info: Store: SET_FULL_SCREEN
+[09/19/19, 14:58:36:310] info: Store: SET_FULL_SCREEN
+[09/19/19, 16:59:09:380] info: Store: SET_SUSPEND_STATUS
+[09/19/19, 16:59:19:680] info: Store: SET_NETWORK_STATUS offline
+[09/20/19, 07:41:27:543] info: Store: SET_SUSPEND_STATUS true
+[09/20/19, 07:41:34:762] info: NetworkStatus: Waiting for network online…
+[09/20/19, 07:41:42:283] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/20/19, 07:41:42:285] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/20/19, 07:41:43:486] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/20/19, 07:44:18:665] info: Store: SET_NETWORK_STATUS online
+[09/20/19, 07:44:18:788] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/20/19, 08:25:02:594] info: Store: SET_NETWORK_STATUS offline
+[09/20/19, 08:25:06:187] info: NetworkStatus: Waiting for network online…
+[09/20/19, 08:25:07:246] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/20/19, 08:25:08:598] info: Store: SET_NETWORK_STATUS online
+[09/20/19, 08:25:08:599] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/20/19, 09:51:32:722] info: Store: SET_SUSPEND_STATUS
+[09/20/19, 09:51:33:594] info: Store: SET_NETWORK_STATUS offline
+[09/20/19, 10:34:30:961] info: Store: SET_SUSPEND_STATUS true
+[09/20/19, 10:34:36:035] info: NetworkStatus: Waiting for network online…
+[09/20/19, 10:34:37:464] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/20/19, 10:34:38:852] info: Store: SET_NETWORK_STATUS online
+[09/20/19, 10:34:38:854] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/20/19, 10:34:41:897] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/20/19, 10:34:42:278] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/20/19, 10:39:02:388] info: Store: SET_FULL_SCREEN
+[09/20/19, 10:39:03:180] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[09/20/19, 10:39:50:372] info: Store: SET_FULL_SCREEN
+[09/20/19, 17:58:00:060] info: Store: SET_FULL_SCREEN
+[09/20/19, 17:58:25:597] info: Store: SELECT_CHANNEL DNMG90G5V
+[09/20/19, 17:59:20:950] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3
+}
+[09/20/19, 17:59:25:553] info: Store: SET_FULL_SCREEN
+[09/20/19, 17:59:36:383] info: Store: SET_FULL_SCREEN
+[09/20/19, 17:59:38:697] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3
+}
+[09/20/19, 17:59:43:542] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3
+}
+[09/20/19, 18:00:06:208] info: Store: SET_FULL_SCREEN
+[09/20/19, 18:00:58:954] info: Store: SET_FULL_SCREEN
+[09/20/19, 18:01:00:861] info: Store: OPEN_CONTEXT_MENU
+{
+  "id": 3
+}
+[09/20/19, 18:02:39:511] info: Store: SET_FULL_SCREEN
+[09/20/19, 18:09:07:393] info: Store: SET_SUSPEND_STATUS
+[09/20/19, 18:09:09:267] info: Store: SET_NETWORK_STATUS offline
+[09/20/19, 18:19:27:947] info: Store: SET_SUSPEND_STATUS true
+[09/20/19, 18:19:33:538] info: NetworkStatus: Waiting for network online…
+[09/20/19, 18:19:35:112] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/20/19, 18:19:36:405] info: Store: SET_NETWORK_STATUS online
+[09/20/19, 18:19:36:407] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/20/19, 18:19:38:434] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/20/19, 18:19:38:723] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/20/19, 18:27:24:053] info: Store: SET_SUSPEND_STATUS
+[09/20/19, 18:27:25:405] info: Store: SET_NETWORK_STATUS offline
+[09/20/19, 20:39:46:782] info: Store: SET_SUSPEND_STATUS true
+[09/20/19, 20:39:52:106] info: NetworkStatus: Waiting for network online…
+[09/20/19, 20:39:53:010] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/20/19, 20:39:53:011] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/20/19, 20:40:07:596] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/20/19, 20:40:08:927] info: Store: SET_NETWORK_STATUS online
+[09/20/19, 20:40:08:929] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/20/19, 20:40:12:943] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/20/19, 20:40:13:454] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/20/19, 22:06:47:017] info: Store: SET_NETWORK_STATUS offline
+[09/20/19, 22:07:18:666] info: NetworkStatus: Waiting for network online…
+[09/20/19, 22:07:29:472] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/20/19, 22:07:29:472] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/20/19, 22:07:39:449] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/20/19, 22:07:39:449] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/20/19, 22:07:49:459] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/20/19, 22:07:49:459] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/20/19, 22:07:52:939] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/20/19, 22:07:53:762] info: Store: SET_NETWORK_STATUS online
+[09/20/19, 22:07:53:919] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/20/19, 22:25:19:841] info: Store: SET_SUSPEND_STATUS
+[09/20/19, 22:25:23:755] info: Store: SET_NETWORK_STATUS offline
+[09/21/19, 12:57:17:947] info: Store: SET_SUSPEND_STATUS true
+[09/21/19, 12:57:29:749] info: NetworkStatus: Waiting for network online…
+[09/21/19, 12:57:30:867] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/21/19, 12:57:30:867] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/21/19, 12:57:36:679] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/21/19, 12:57:36:680] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/21/19, 12:57:45:491] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/21/19, 12:57:46:682] info: Store: SET_NETWORK_STATUS online
+[09/21/19, 12:57:53:277] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/21/19, 13:04:00:759] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/21/19, 13:04:06:754] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/21/19, 16:45:33:175] info: Store: SET_SUSPEND_STATUS
+[09/21/19, 16:45:37:196] info: Store: SET_NETWORK_STATUS offline
+[09/21/19, 19:43:04:841] info: Store: SET_SUSPEND_STATUS true
+[09/21/19, 19:43:11:222] info: NetworkStatus: Waiting for network online…
+[09/21/19, 19:43:11:838] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/21/19, 19:43:11:838] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/21/19, 19:43:18:594] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/21/19, 19:43:19:776] info: Store: SET_NETWORK_STATUS online
+[09/21/19, 19:43:19:777] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/21/19, 19:43:25:896] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/21/19, 19:43:52:569] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/21/19, 21:06:42:483] info: Store: SET_SUSPEND_STATUS
+[09/21/19, 21:06:43:775] info: Store: SET_NETWORK_STATUS offline
+[09/22/19, 16:54:54:036] info: Store: SET_SUSPEND_STATUS true
+[09/22/19, 16:54:59:005] info: NetworkStatus: Waiting for network online…
+[09/22/19, 16:55:00:056] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/22/19, 16:55:00:062] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/22/19, 16:55:06:652] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/22/19, 16:55:08:009] info: Store: SET_NETWORK_STATUS online
+[09/22/19, 16:55:08:010] warn: Base Component: Attempting to update LoadingScreen when unmounted.
+[09/22/19, 16:55:12:180] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[09/22/19, 16:55:12:181] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[09/22/19, 19:05:50:436] info: Store: SET_SUSPEND_STATUS
+[09/22/19, 19:05:52:130] info: Store: SET_NETWORK_STATUS offline
+[09/22/19, 19:11:28:965] info: Store: SET_SUSPEND_STATUS true
+[09/22/19, 19:11:35:216] info: NetworkStatus: Waiting for network online…
+[09/22/19, 19:11:35:787] info: NetworkStatus: Network check failed
+{
+  "error": {
+    "message": "Failed to fetch",
+    "stack": "TypeError: Failed to fetch"
+  }
+}
+[09/22/19, 19:11:35:787] info: NetworkStatus: Response from api.test
+{
+  "status": "offline"
+}
+[09/22/19, 19:11:43:781] info: NetworkStatus: Response from api.test
+{
+  "status": "online"
+}
+[09/22/19, 19:11:44:757] info: Store: SET_NETWORK_STATUS online
+[09/22/19, 19:11:44:758] warn: Base Component: Attempting to update LoadingScreen when unmounted.

@@ -1,0 +1,253 @@
+[09/09/19, 21:26:11:953] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/09/19, 21:26:11:955] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/09/19, 21:26:11:945      ║
+[09/09/19, 21:26:11:955] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/09/19, 21:26:12:384] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/09/19, 21:26:14:132] info: Store: INITIALIZE_SETTINGS
+{
+  "appVersion": "3.3.8",
+  "devEnv": null,
+  "isAeroGlassEnabled": false,
+  "isDevMode": false,
+  "isGpuCompositionAvailable": true,
+  "isTitleBarHidden": false,
+  "launchOnStartup": false,
+  "linux": {
+    "desktopEnvironment": "Unity",
+    "os": "Ubuntu 18.04 LTS",
+    "release": "bionic"
+  },
+  "logFile": null,
+  "openDevToolsOnStart": false,
+  "platformVersion": {
+    "build": 0,
+    "major": 4,
+    "minor": 15
+  },
+  "pretendNotReallyWindows10": false,
+  "releaseChannel": "prod",
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "versionName": "Alaska",
+  "webappParams": null,
+  "webappSrcPath": null
+}
+[09/09/19, 21:26:14:138] info: Store: UPDATE_SETTINGS
+{
+  "hasRunApp": true
+}
+[09/09/19, 21:26:14:139] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[09/09/19, 21:26:14:141] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "position": [
+    205,
+    27
+  ],
+  "size": [
+    1024,
+    741
+  ]
+}
+[09/09/19, 21:26:14:141] info: Store: UPDATE_SETTINGS
+{
+  "PrefSSBFileDownloadPath": "/home/peter/Downloads"
+}
+[09/09/19, 21:26:16:845] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/09/19, 21:26:16:854] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/09/19, 21:26:19:462] info: Store: SET_NETWORK_STATUS online
+[09/09/19, 21:26:19:467] info: Store: MAIN_WINDOW_SHOWN
+[09/09/19, 21:26:19:818] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[09/12/19, 16:01:05:920] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/12/19, 16:01:05:923] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/12/19, 16:01:05:917      ║
+[09/12/19, 16:01:05:923] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/12/19, 16:01:07:485] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/12/19, 16:01:09:685] info: Store: INITIALIZE_SETTINGS
+{
+  "appVersion": "3.3.8",
+  "devEnv": null,
+  "isAeroGlassEnabled": false,
+  "isDevMode": false,
+  "isGpuCompositionAvailable": true,
+  "isTitleBarHidden": false,
+  "launchOnStartup": false,
+  "linux": {
+    "desktopEnvironment": "Unity",
+    "os": "Ubuntu 18.04 LTS",
+    "release": "bionic"
+  },
+  "logFile": null,
+  "openDevToolsOnStart": false,
+  "platformVersion": {
+    "build": 0,
+    "major": 4,
+    "minor": 15
+  },
+  "pretendNotReallyWindows10": false,
+  "releaseChannel": "prod",
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "versionName": "Alaska",
+  "webappParams": null,
+  "webappSrcPath": null
+}
+[09/12/19, 16:01:09:686] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[09/12/19, 16:01:10:435] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/12/19, 16:01:10:439] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/12/19, 16:01:11:735] info: Store: SET_NETWORK_STATUS online
+[09/12/19, 16:01:11:740] info: Store: MAIN_WINDOW_SHOWN
+[09/12/19, 16:01:11:952] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[09/13/19, 09:43:42:380] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/13/19, 09:43:42:381] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/13/19, 09:43:42:376      ║
+[09/13/19, 09:43:42:381] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/13/19, 09:43:42:658] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/13/19, 09:43:45:935] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/13/19, 09:43:45:937] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/13/19, 09:43:48:197] info: Store: SET_NETWORK_STATUS online
+[09/13/19, 09:43:48:200] info: Store: MAIN_WINDOW_SHOWN
+[09/13/19, 09:43:48:823] info: Store: ADD_WINDOW
+{
+  "id": 3,
+  "type": "sign-in"
+}
+[09/15/19, 15:49:26:208] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/15/19, 15:49:26:210] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/15/19, 15:49:25:879      ║
+[09/15/19, 15:49:26:210] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/15/19, 15:49:26:886] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/15/19, 15:49:36:117] info: Store: INITIALIZE_SETTINGS
+{
+  "appVersion": "3.3.8",
+  "devEnv": null,
+  "isAeroGlassEnabled": false,
+  "isDevMode": false,
+  "isGpuCompositionAvailable": true,
+  "isTitleBarHidden": false,
+  "launchOnStartup": false,
+  "linux": {
+    "desktopEnvironment": "Unity",
+    "os": "Ubuntu 18.04 LTS",
+    "release": "bionic"
+  },
+  "logFile": null,
+  "openDevToolsOnStart": false,
+  "platformVersion": {
+    "build": 0,
+    "major": 4,
+    "minor": 15
+  },
+  "pretendNotReallyWindows10": false,
+  "releaseChannel": "prod",
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "versionName": "Alaska",
+  "webappParams": null,
+  "webappSrcPath": null
+}
+[09/15/19, 15:49:36:120] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[09/15/19, 15:49:36:122] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "unloaded",
+  "teamId": "T077KKCG6"
+}
+[09/15/19, 15:49:44:812] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/15/19, 15:49:44:813] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/15/19, 15:49:48:422] info: Store: SET_NETWORK_STATUS online
+[09/16/19, 16:37:48:338] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/16/19, 16:37:48:339] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/16/19, 16:37:48:334      ║
+[09/16/19, 16:37:48:340] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/16/19, 16:37:48:470] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/16/19, 16:37:52:584] info: Store: INITIALIZE_SETTINGS
+{
+  "appVersion": "3.3.8",
+  "devEnv": null,
+  "isAeroGlassEnabled": false,
+  "isDevMode": false,
+  "isGpuCompositionAvailable": true,
+  "isTitleBarHidden": false,
+  "launchOnStartup": false,
+  "linux": {
+    "desktopEnvironment": "Unity",
+    "os": "Ubuntu 18.04 LTS",
+    "release": "bionic"
+  },
+  "logFile": null,
+  "openDevToolsOnStart": false,
+  "platformVersion": {
+    "build": 0,
+    "major": 4,
+    "minor": 15
+  },
+  "pretendNotReallyWindows10": false,
+  "releaseChannel": "prod",
+  "resourcePath": "/usr/lib/slack/resources/app.asar",
+  "versionName": "Alaska",
+  "webappParams": null,
+  "webappSrcPath": null
+}
+[09/16/19, 16:37:52:592] info: Store: ADD_WINDOW
+{
+  "id": 2,
+  "type": "main"
+}
+[09/16/19, 16:37:52:593] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "unloaded",
+  "teamId": "T077KKCG6"
+}
+[09/16/19, 16:37:54:623] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/16/19, 16:37:54:645] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/16/19, 16:37:55:323] info: Store: SET_NETWORK_STATUS online
+[09/16/19, 16:38:29:692] info: Store: UPDATE_SETTINGS
+{
+  "userTheme": "light"
+}
+[09/16/19, 16:38:29:792] info: Store: UPDATE_SETTINGS
+{
+  "systemThemeSyncEnabled": false
+}
+[09/16/19, 16:38:31:582] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T077KKCG6"
+}
+[09/16/19, 16:38:31:636] info: Store: MAIN_WINDOW_SHOWN
+[09/17/19, 09:24:09:437] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[09/17/19, 09:24:09:448] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 09/17/19, 09:24:09:434      ║
+[09/17/19, 09:24:09:448] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[09/17/19, 09:24:09:772] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[09/17/19, 09:24:11:498] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[09/17/19, 09:24:11:566] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[09/17/19, 09:24:13:061] info: Store: SET_NETWORK_STATUS online
+[09/17/19, 09:24:19:908] info: Store: UPDATE_SETTINGS
+{
+  "userTheme": "light"
+}
+[09/17/19, 09:24:19:912] info: Store: UPDATE_SETTINGS
+{
+  "systemThemeSyncEnabled": false
+}
+[09/17/19, 09:24:21:671] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T077KKCG6"
+}
+[09/17/19, 09:24:21:677] info: Store: MAIN_WINDOW_SHOWN

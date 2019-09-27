@@ -1,0 +1,48 @@
+[2019-09-19 14:33:14.980] [exthost] [info] extension host started
+[2019-09-19 14:33:15.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-09-19 14:33:15.018] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-09-19 14:33:15.137] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-09-19 14:33:15.138] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-09-19 14:33:15.240] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-09-19 14:33:15.240] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-09-19 14:33:15.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-09-19 14:33:15.439] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-09-19 14:33:15.481] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"activationEvent":"*"}
+[2019-09-19 14:33:15.481] [exthost] [info] ExtensionService#loadCommonJSModule /home/peter/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2019-09-19 14:33:17.443] [exthost] [info] eager extensions activated
+[2019-09-19 14:33:52.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2019-09-19 14:33:52.779] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain
+[2019-09-19 14:33:54.896] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2019-09-19 14:33:54.896] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/dist/cssMain
+[2019-09-19 14:48:56.646] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-09-19 14:48:56.646] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-09-19 15:17:20.647] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-09-19 15:17:20.647] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension
+[2019-09-19 15:17:20.885] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"activationEvent":"onLanguage:markdown"}
+[2019-09-19 15:17:20.886] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/markdown-language-features/dist/extension
+[2019-09-19 16:03:48.357] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-19 16:03:48.357] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/dist/extension
+[2019-09-19 16:03:48.564] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-09-19 16:03:48.564] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-09-20 17:22:57.022] [exthost] [error] [vscode.html-language-features] provider FAILED
+[2019-09-20 17:22:57.194] [exthost] [error] Error: Illegal argument: character must be non-negative
+	at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:414)
+	at new p (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:327:948)
+	at new p (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:327:254)
+	at h (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:176402)
+	at f (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:176475)
+	at /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:177571
+	at v (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:177757)
+	at Array.map (<anonymous>)
+	at asCompletionResult (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:183119)
+[2019-09-20 17:22:57.659] [exthost] [error] [vscode.html-language-features] provider FAILED
+[2019-09-20 17:22:57.659] [exthost] [error] Error: Illegal argument: character must be non-negative
+	at Object.t.illegalArgument (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:10:414)
+	at new p (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:327:948)
+	at new p (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:327:254)
+	at h (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:176402)
+	at f (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:176475)
+	at /usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:177571
+	at v (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:177757)
+	at Array.map (<anonymous>)
+	at asCompletionResult (/usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain.js:1:183119)

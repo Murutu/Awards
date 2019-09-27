@@ -1,0 +1,43 @@
+2019/09/21-12:59:44.311 45f7 Reusing MANIFEST /home/peter/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2019/09/21-12:59:44.312 45f7 Recovering log #135
+2019/09/21-12:59:44.323 45f7 Reusing old log /home/peter/.config/google-chrome/Default/Session Storage/000135.log 
+2019/09/21-13:22:38.128 4df4 Level-0 table #139: started
+2019/09/21-13:22:38.220 4df4 Level-0 table #139: 21229 bytes OK
+2019/09/21-13:22:38.260 4df4 Delete type=0 #135
+2019/09/21-14:37:51.405 4df4 Compacting 2@0 + 1@1 files
+2019/09/21-14:37:51.457 4df4 Generated table #140@0: 456 keys, 50138 bytes
+2019/09/21-14:37:51.457 4df4 Compacted 2@0 + 1@1 files => 50138 bytes
+2019/09/21-14:37:51.514 4df4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/09/21-14:37:51.514 4df4 Delete type=2 #134
+2019/09/21-14:37:51.514 4df4 Delete type=2 #136
+2019/09/21-14:37:51.514 4df4 Delete type=2 #139
+2019/09/21-14:39:37.333 4df4 Level-0 table #142: started
+2019/09/21-14:39:37.377 4df4 Level-0 table #142: 21842 bytes OK
+2019/09/21-14:39:37.420 4df4 Delete type=0 #138
+2019/09/21-15:29:23.255 4df4 Compacting 1@0 + 1@1 files
+2019/09/21-15:29:23.396 4df4 Generated table #143@0: 549 keys, 45452 bytes
+2019/09/21-15:29:23.396 4df4 Compacted 1@0 + 1@1 files => 45452 bytes
+2019/09/21-15:29:23.455 4df4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/09/21-15:29:23.456 4df4 Delete type=2 #142
+2019/09/21-15:29:23.456 4df4 Delete type=2 #140
+2019/09/22-18:22:20.201 4df4 Level-0 table #145: started
+2019/09/22-18:22:20.310 4df4 Level-0 table #145: 37659 bytes OK
+2019/09/22-18:22:20.351 4df4 Delete type=0 #141
+2019/09/22-18:27:58.083 4df4 Level-0 table #147: started
+2019/09/22-18:27:58.142 4df4 Level-0 table #147: 24377 bytes OK
+2019/09/22-18:27:58.207 4df4 Delete type=0 #144
+2019/09/22-18:30:16.538 4df4 Level-0 table #149: started
+2019/09/22-18:30:16.655 4df4 Level-0 table #149: 24474 bytes OK
+2019/09/22-18:30:16.793 4df4 Delete type=0 #146
+2019/09/22-18:35:57.422 4df4 Level-0 table #151: started
+2019/09/22-18:35:57.525 4df4 Level-0 table #151: 16152 bytes OK
+2019/09/22-18:35:57.565 4df4 Delete type=0 #148
+2019/09/22-18:35:57.565 4df4 Compacting 4@0 + 1@1 files
+2019/09/22-18:35:57.626 4df4 Generated table #152@0: 775 keys, 129077 bytes
+2019/09/22-18:35:57.626 4df4 Compacted 4@0 + 1@1 files => 129077 bytes
+2019/09/22-18:35:57.664 4df4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/09/22-18:35:57.665 4df4 Delete type=2 #149
+2019/09/22-18:35:57.665 4df4 Delete type=2 #143
+2019/09/22-18:35:57.665 4df4 Delete type=2 #151
+2019/09/22-18:35:57.665 4df4 Delete type=2 #147
+2019/09/22-18:35:57.665 4df4 Delete type=2 #145

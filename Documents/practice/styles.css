@@ -1,0 +1,50 @@
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li {
+    float: left;
+}
+
+#nav li a {
+    display: block;
+    /* color: white; */
+    /* text-align: center;
+    padding: 14px 16px;
+    text-decoration:none;
+    background-color: grey;
+    } */
+
+    /* Change the link color to #111 (black) on hover */
+    /* li a:hover {
+        background-color: grey;
+    }#nav{
+        color:grey;
+    } */ 
+
+    nav ul li{
+        display: inline;
+        flex-direction: row;
+        margin-right: 5%;
+        text-transform: uppercase;
+        flex-wrap: nowrap;
+        border: 3px solid rgb(1, 1, 22);
+        background-color: rgb(68, 172, 241);
+        color:white;
+    }
+
+    h4{
+        border: 3px solid rgb(1, 1, 22);
+        width: 10%;
+        background-color: rgb(20, 159, 214);
+        padding: 10px;
+    }
+
+    body {
+        background-color:
+    }
+    
