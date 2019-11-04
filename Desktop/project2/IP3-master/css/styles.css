@@ -1,0 +1,69 @@
+h1 {
+    text-align:center;
+}
+
+#b {
+font-size: 10px;
+text-align:center;
+color:white;
+}
+
+.g {
+    background-image:url("../IP3-master/assets/backgrounds/h_img.jpg");
+    background-size:contain;
+    width:100%;
+    height:auto;
+    background-repeat: no-repeat;
+}
+
+#c {
+    text-align: center;
+}
+
+#a {
+    color:white;
+}
+
+#f {
+    color:black;
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+.h {
+    background-image: url("../IP3-master/assets/backgrounds/s_image.jpg");
+    color: white;
+    background-size:cover;
+}
+
+.i {
+text-align: center;
+padding-top:80px;
+}
+
+.j {
+    text-align: center;
+}
+
+#k-hidden {
+  display:none;  
+}
+
+#l-hidden {
+    display:none;
+}
+
+#m-hidden {
+   display:none; 
+}
+
+.o {
+    text-align: center;
+}
+.o >div{
+    padding: 5px;
+}
+.col-md-3>img{
+justify-content: space-around;
+}

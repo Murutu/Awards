@@ -1,3 +1,38 @@
-2019/09/22-19:15:09.985 935 Reusing MANIFEST /home/peter/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2019/09/22-19:15:09.985 935 Recovering log #150
-2019/09/22-19:15:09.986 935 Reusing old log /home/peter/.config/google-chrome/Default/Session Storage/000150.log 
+2019/10/09-07:56:38.270 9c4 Reusing MANIFEST /home/peter/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2019/10/09-07:56:38.271 9c4 Recovering log #287
+2019/10/09-07:56:38.292 9c4 Reusing old log /home/peter/.config/google-chrome/Default/Session Storage/000287.log 
+2019/10/09-08:34:28.899 e8b Level-0 table #291: started
+2019/10/09-08:34:28.979 e8b Level-0 table #291: 16542 bytes OK
+2019/10/09-08:34:29.014 e8b Delete type=0 #287
+2019/10/09-09:15:31.017 e8b Level-0 table #293: started
+2019/10/09-09:15:31.122 e8b Level-0 table #293: 19629 bytes OK
+2019/10/09-09:15:31.160 e8b Delete type=0 #290
+2019/10/09-10:26:11.660 e8b Level-0 table #295: started
+2019/10/09-10:26:11.791 e8b Level-0 table #295: 20636 bytes OK
+2019/10/09-10:26:11.914 e8b Delete type=0 #292
+2019/10/09-10:26:11.915 e8b Compacting 4@0 + 1@1 files
+2019/10/09-10:26:12.070 e8b Generated table #296@0: 1082 keys, 79812 bytes
+2019/10/09-10:26:12.070 e8b Compacted 4@0 + 1@1 files => 79812 bytes
+2019/10/09-10:26:12.205 e8b compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/09-10:26:12.206 e8b Delete type=2 #293
+2019/10/09-10:26:12.206 e8b Delete type=2 #291
+2019/10/09-10:26:12.206 e8b Delete type=2 #286
+2019/10/09-10:26:12.240 e8b Delete type=2 #288
+2019/10/09-10:26:12.240 e8b Delete type=2 #295
+2019/10/09-10:34:49.306 e8b Level-0 table #298: started
+2019/10/09-10:34:49.396 e8b Level-0 table #298: 23463 bytes OK
+2019/10/09-10:34:49.474 e8b Delete type=0 #294
+2019/10/09-11:18:54.016 e8b Level-0 table #300: started
+2019/10/09-11:18:54.092 e8b Level-0 table #300: 19583 bytes OK
+2019/10/09-11:18:54.168 e8b Delete type=0 #297
+2019/10/09-11:59:34.404 e8b Level-0 table #302: started
+2019/10/09-11:59:34.496 e8b Level-0 table #302: 15268 bytes OK
+2019/10/09-11:59:34.565 e8b Delete type=0 #299
+2019/10/09-18:11:19.331 e8b Compacting 3@0 + 1@1 files
+2019/10/09-18:11:19.568 e8b Generated table #303@0: 1150 keys, 113187 bytes
+2019/10/09-18:11:19.568 e8b Compacted 3@0 + 1@1 files => 113187 bytes
+2019/10/09-18:11:19.603 e8b compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/10/09-18:11:19.603 e8b Delete type=2 #296
+2019/10/09-18:11:19.610 e8b Delete type=2 #300
+2019/10/09-18:11:19.611 e8b Delete type=2 #302
+2019/10/09-18:11:19.611 e8b Delete type=2 #298

@@ -638,3 +638,393 @@ git remote -v
 git branch
 git branch gh-pages
 git push origin gh-pages
+git init
+git status
+git add .
+git commit -m "Add index.html and css"
+git status
+clear
+git log 
+git add .
+git commit -m"add heading"
+git add .
+git commit -m"add title"
+git add .
+git commit -m"add logo"
+git push -u origin master
+git remote add origin https://github.com/Murutu/IP3.git
+git push origin master
+git add .
+git commit -m"add logo"
+git add .
+git commit -m"add heading"
+git push origin master
+git add .
+git commit -m"add mouse click"
+git push origin master
+git add .
+git commit -m"background image"
+git push origin master
+git add .
+git commit -m"changed color"
+git push origin master
+git add .
+git commit -m"changed color"
+git push origin master
+git add .
+git commit -m"add heading"
+git push origin master
+git add .
+git commit -m"add paragraph"
+git push origin master
+git add .
+git commit -m"changed color to black"
+git push orgin master
+git push origin master
+git add .
+git commit -m"added paragraphs"
+git push origin master
+git add .
+git commit -m"About Us moved to center"
+git push origin master
+git add .
+git commit -m"added services"
+git push origin master
+git add .
+git commit -m"added background"
+git add .
+git commit -m"add cover"
+git push origin master
+git add .
+git commit -m"added heading"
+git push origin master
+git add .
+git commit -m"add services icon"
+git add .
+git commit -m" added design services icon"
+git add .
+git commit -m"add design"
+git push origin master
+git add .
+git commit -m"add contain"
+git push origin master
+git add .
+git commit -m"add product"
+git push origin master 
+git add .
+git commit -m"add portfolio"
+git push origin master
+git add .
+git commit -m"added portfolio images"
+git push origin master
+git log
+git status
+clear
+pwd
+cd Desktop
+ls1
+clear
+ls
+cd IP3
+clear
+ls
+code .
+clear
+code .\
+code .
+git pull origin master\
+git pull origin master
+git remote -v
+cd ..\
+cd ..
+git clone https://github.com/Murutu/IP3.git
+cd IP3
+code .
+git add .
+git commit -m"added contacts"
+git push origin master
+git add .
+git commit -m"added textarea"
+git push origin master
+git status
+git checkout -b gh-pages
+git push origin gh-pages
+git add .
+git commit -m"added icons"
+git push origin gh-pages
+git add .
+git commit -m"added click"
+git push origin gh-pages
+git add .
+git commit -m"added Delani Studio"
+uname -a
+git add .
+git commit -m"added hover"
+git push origin gh-pages
+git push origin master
+git branch
+git checkout master
+git push origin master
+git pull origin master
+git push origin master
+git branch -D gh-pages
+git branch gh-pages
+git push origin gh-pages
+git branch -D gh-pages
+git branch gh-pages
+git checkout gh-pages
+git push origin gh-pages
+git branch gh-pages
+git branch 
+git branch -D gh-pages
+git checkout gh-pages
+git branch -D gh-pages
+git checkout master
+git branch -D gh-pages
+
+git branch gh-pages
+
+git branch -D gh-pages
+git push origin master
+git push origin gh-pages
+git branch gh-pages
+git push origin gh-pages
+git pull
+git branch -D gh-pages
+git status
+git add .
+git commit -m"made changes to portfolio" 
+git push origin master
+git add .
+git push origin master
+git add .
+git commit -m"made changes to icons"
+git branch gh-pages
+git push origin gh-pages
+code .
+ls
+ls -la
+git status
+git init
+git status
+git clone
+git clone https://github.com/Murutu/hello-world.git
+git remote -v
+mkdir moringa-school-projects
+cd 
+cd Desktop/address-book-master/moringa-school-projects
+git clone https://github.com/Murutu/hello-world.git
+git remote -v
+cd hello-world-1
+ls
+cd hello-world
+git remote -v
+README.md
+git add .
+git commit -"added link"
+git commit -m"added link"
+git push origin master
+pwd
+mkdir Pizza Place
+ls
+cd Pizza
+mkdir 
+mkdir css
+mkdir js
+cd css
+touch styles.css
+cd
+cd Pizza
+cd js
+touch scripts.js
+cd ..
+
+git init
+ls
+ls -a
+git init
+git commit -m "first commit"
+git status
+git remote add origin https://github.com/Murutu/Pizza-Place.git
+git push origin master
+git remote -v
+ls
+git status
+git add .
+git commit -m "first commit"
+git push origin master
+code .
+git status
+git add index.html 
+git commit -m"Add a navbar in index.html"
+git push origin master
+git add .
+git commit -m"Added a logo in index.html"
+git push origin master
+git add .
+git commit -m"Added overflow to styles.css"
+git push origin master
+git add .
+git commit -m"Added background image in styles.css"
+git push origin master
+git add .
+git commit -m"Added Our Menu in html"
+git push origin master
+git add .
+git commit -m"Added paragraph in Our menu on the html"
+git push origin master
+git add .
+git commit -m"Added chicken fajita imageon the html"
+git add .
+git commit -m"added pizza images"
+git push origin master
+git add .
+git commit -m"added cupon"
+git add .
+git commit -m"added logo"
+git add .
+git commit -m"added k-hidden"
+git push origin master
+git add .
+git commit -m"added l-hidden"
+git add .
+git commit -m"added d1-show"
+git add .
+git commit -m"added #d2-show"
+git add .
+git commit -m"added toggle function"
+git add .
+git commit -m"Added scripts.js"
+git add .
+git commit -m"Added jQuery"
+git status
+git add .
+git commit -m "add jquery"
+git push origin master
+git add .
+git commit -m "add Large=ksh1060"
+git add .
+git commit -m "add order here"
+git push origin master
+git add .
+git commit -m "change color to white"
+git push origin master
+git add .
+git commit -m "change background color to black"
+git add .
+git commit -m "display nav items inline"
+git push origin master
+git add .
+git commit -m"changed nav bar color to black"
+git push origin master
+git add .
+git commit -m "add select the pizza of your choice"
+git push origin master
+git add .
+git commit -m "add select the size of your choice"
+git push origin master
+git add .
+git commit -m"add first name"
+git push origin master
+git add .
+git commit -m"add last name"
+git push origin master
+git add .
+git commit -m"add the background color blue
+git commit -m"add the background color blue"
+git add .
+git remote -v
+git status
+git push origin master
+git branch
+git branch gh-pages
+git branch
+git push origin gh-pages
+touch README.md
+code .
+git status
+git remote -v
+git push origin master
+git branch
+git branch -D gh-pages
+git remote -v
+git push origin master
+git pull origin master
+cd ..
+git remote -v
+git push origin master
+git status
+git commit -m "add readme"
+git push origin master
+git branch
+git branch gh-pages
+git push origin gh-pages
+git commit -m "add email"
+git push origin master
+git add .
+git commit -m"add size"
+git push origin master
+git commit -m"make change to size of pizza"
+git push origin master
+git commit -m"add README"
+git push origin master
+git commit -m" add a display function for the order summary"
+git log --oneline
+git commit -m "add submit"
+git push origin master
+git add .
+git commit -m "add summary"
+git push origin master
+git add .
+git commit -m "add business logic"
+git push origin master
+git add .
+git commit -m "add user interface"
+git add .
+git commit -m"add location"
+git push origin master
+git add .
+git commit -m "add function order"
+git push origin master
+git add .
+git commit -m"add function address"
+git push origin master
+git add .
+git commit -m"function price"
+git push origin master
+cd ..
+mkdir mapambo
+pwd
+ls
+cd peter
+ls
+cd Desktop/
+mkdir mapambo
+ls
+cd mapambo
+git clone https://github.com/Julius-717/mapambo.git
+git checkout -b signup
+git branch
+git add .
+touch signup.html
+code signup.html
+ls
+touch customersignup.html
+touch stylist.html
+rm signup.html
+ls
+code customersignup.html
+ls -a
+pwd
+cd Desktop
+ls
+cd ..
+ls
+cd Pizza
+ls
+ls -a
+cd ..
+cd mapambo
+git clone https://github.com/Julius-717/mapambo.git
+ls -a
+git branch

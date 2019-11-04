@@ -1,7 +1,12 @@
-
 [Default Applications]
 text/html=google-chrome.desktop
 x-scheme-handler/http=google-chrome.desktop
 x-scheme-handler/https=google-chrome.desktop
 x-scheme-handler/about=google-chrome.desktop
 x-scheme-handler/unknown=google-chrome.desktop
+
+[Added Associations]
+text/plain=code.desktop;org.gnome.gedit.desktop;
+text/css=code.desktop;
+text/html=code.desktop;
+application/javascript=code.desktop;

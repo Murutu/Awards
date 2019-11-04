@@ -1,0 +1,17 @@
+body {
+      background: #eee;
+      margin: 0;
+      padding: 0;
+    }
+#wrapper
+{
+	width: 1300px;
+	background-color: #fff;
+	margin: 0px auto;
+	min-height: 1000px;
+	margin-top: 40px;
+	border: 1px solid#999;
+	border-bottom: 3px solid#999;
+	border-radius: 5px;
+	padding-bottom: 20px;
+}

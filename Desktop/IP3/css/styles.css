@@ -1,0 +1,144 @@
+*{
+    overflow-x: hidden;
+}
+h1 {
+    text-align:center;
+}
+
+#b {
+font-size: 10px;
+text-align:center;
+color:white;
+}
+
+.g {
+    background-image:url("../IP3-master/assets/backgrounds/h_img.jpg");
+    background-size:contain;
+    width:100%;
+    height:auto;
+    background-repeat: no-repeat;
+}
+
+#c {
+    text-align: center;
+}
+
+#a {
+    color:white;
+}
+
+#f {
+    color:black;
+    background-color: white;
+    padding: 100px;
+    text-align: center;
+    }
+
+.h {
+    background-image: url("../IP3-master/assets/backgrounds/s_image.jpg");
+    color: white;
+    background-size:cover;
+}
+
+.i {
+text-align: center;
+padding-top:80px;
+}
+
+.j {
+    text-align: center;
+}
+
+#k-hidden {
+  display:none;  
+}
+
+#l-hidden {
+    display:none;
+}
+
+#m-hidden {
+   display:none; 
+}
+
+.o {
+    text-align: center;
+}
+.o img{
+    margin:10px;
+}
+
+
+.Con {
+    color:white;
+    background-image: url(../IP3-master/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    height:90vh; 
+}
+
+.theform input {
+    width: 45%;
+    background: transparent;
+  }
+  
+ #place {
+    margin-top: 20px;
+    width: 100%;
+    background: transparent;
+    padding-top:50px;
+ 
+ }
+ .theform{
+    text-align: center;
+    position: relative;
+    left: 50%;
+    width:800px;
+    transform: translate(-50%);
+    background: transparent;
+    
+}
+
+.theform textarea{
+    margin-top:20px;
+}
+
+#text4 {
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+display: none;
+}
+
+.overlay {
+  position: relative;
+  bottom: 0;
+  background: rgb(253, 250, 250);
+  color: #f1f1f1;
+  transition: .5s ease;
+  opacity: 2;
+}
+
+.hovertext{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 40%;
+    font-weight: 400;
+    font-size:28px;
+    color: white;
+    text-align: center;
+    HEIGHT: auto;
+    opacity: 0.55%;
+    background: #00000066;
+    transform: translate(-50%,-50%);
+    }
+    .linkme{ 
+        
+        text-align: center; 
+        margin-left: 400px;
+        margin-top:50px;
+    } 
+   
+.r1 p{
+    text-align: center;
+}

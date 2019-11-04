@@ -1,0 +1,6 @@
+2019/10/09-17:17:24.608 344b Reusing MANIFEST /home/peter/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/10/09-17:17:24.608 344b Recovering log #3
+2019/10/09-17:17:24.737 344b Reusing old log /home/peter/.config/google-chrome/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000003.log 
+2019/10/09-17:17:32.769 3717 Level-0 table #5: started
+2019/10/09-17:17:32.988 3717 Level-0 table #5: 4367621 bytes OK
+2019/10/09-17:17:33.109 3717 Delete type=0 #3

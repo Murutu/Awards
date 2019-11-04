@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mapambo</title>
+    <!-- //bootstrap css -->
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <!-- //signup css -->
+    <link rel="stylesheet" href="css/signup.css">
+    <!-- main css
+    <link rel="stylesheet" href="css/main.css"> -->
+    <!-- font awesome js-->
+    <script src="js/all.js"></script>
+    <!-- //ajax js
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
+    <!-- //email validation js -->
+    <script src="js/signup.js"></script>
+    <!-- google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Grenze&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class='bold-line'></div>
+    <div class="container">
+        <div class='window'>
+            <div class='overlay'></div>
+            <div class='content'>
+                <div class="content">
+                    <div class='welcome'>Mapambo🛠</div>
+                    <div class='subtitle'><strong>"service before self"</strong></div>
+                    <div class="sign-up-form">
+                        <h1>CLIENT SIGN UP PORTAL</h1>
+                        <h2>Sign Up Now</h2>
+                        <form class="input">
+                            <div class="input-fields">
+                                <input id="clientfirstname" type="text" class="input-box"
+                                    placeholder="Your first name"><br>
+                                <input id="clientlastname" type="text" class="input-box"
+                                    placeholder="Your last name"><br>
+                                <input id="clientphonenumber" type="text" class="input-box"
+                                    placeholder="Your phone number"><br>
+                                <input id="clientemail" type="email" class="input-box" placeholder="Your Email"><br>
+                                <input type="password" class="input-box" placeholder="Your Password"><br>
+                                <input type="radio" name="gender" value="male" checked>Male<br>
+                                <input type="radio" name="gender" value="female">Female<br>
+                                <input type="radio" name="gender" value="other">Other<br>
+                                <p><span><input type="checkbox"></span>I agree to the terms of
+                                    services</p>
+                                <input id="submit" class='ghost-round full-width' onclick="validate()" name=""
+                                    type="submit" value="Submit"> <a href="services.html"></a> </input>
+                                <p>Not a <strong>client?</strong> Access the stylist <a
+                                        href="stylistsignup.html"><strong>here</strong></a></p>
+                                <hr>
+                                <p class="or">OR</p>
+                                <p>Do you have an account?</p>
+                                <button id="validate" type="button" class="signup-btn"><a
+                                        href="Login.html">Login</a></button>
+                            </div>
+                        </form>
+                        <h3 id='result'></h3>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

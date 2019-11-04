@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Login form</title>
+  <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha384-mlceH9HlqLp7GMKHrj5Ara1+LvdTZVMx4S1U43/NxCvAkzIo8WJ0FE7duLel3wVo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="js/login.js"></script>
+  <link rel="stylesheet" href="css/login.css">
+</head>
+
+<body>
+
+  <div class='bold-line'></div>
+  <div class='container'>
+    <div class='window'>
+      <div class='overlay'></div>
+      <div class='content'>
+        <div class="content">
+        <div class='welcome'>Mapambo🛠</div>
+        <div class='subtitle'><strong>"service before self"</strong></div>
+        <form class="input">
+          <div class='input-fields'>
+            <input type='text' placeholder='Username' class='login full-width' id="username" name="" required></input>
+            <input type='password' placeholder='Password' class='login full-width' id="password" name="" required></input>
+            <input id="login" class='ghost-round full-width' onclick="validate()" name="" type="submit" value="login">
+            <div class = "message"><p>Invalid Username and password</p></div>
+        </form>
+           </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>

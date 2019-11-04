@@ -251,3 +251,25 @@
   "teamId": "T077KKCG6"
 }
 [09/17/19, 09:24:21:677] info: Store: MAIN_WINDOW_SHOWN
+[10/09/19, 10:53:49:910] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/09/19, 10:53:49:912] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 10/09/19, 10:53:49:908      ║
+[10/09/19, 10:53:49:912] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/09/19, 10:53:50:066] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[10/09/19, 10:53:51:779] info: Store: BACKGROUND_CLIENTS_INITIALIZED
+[10/09/19, 10:53:51:786] info: Store: BACKGROUND_CLIENTS_INITIALIZED true
+[10/09/19, 10:53:52:209] info: Store: SET_NETWORK_STATUS online
+[10/09/19, 10:55:11:140] info: Store: UPDATE_SETTINGS
+{
+  "userTheme": "light"
+}
+[10/09/19, 10:55:11:148] info: Store: UPDATE_SETTINGS
+{
+  "systemThemeSyncEnabled": false
+}
+[10/09/19, 10:55:28:258] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T077KKCG6"
+}
+[10/09/19, 10:55:28:283] info: Store: MAIN_WINDOW_SHOWN

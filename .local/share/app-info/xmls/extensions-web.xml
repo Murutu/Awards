@@ -154,7 +154,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="29"/>
+      <release version="33"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -1170,7 +1170,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="7"/>
+      <release version="8"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -1712,7 +1712,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="19"/>
+      <release version="20"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -2845,7 +2845,7 @@
     <id>ShutdownTimer_neumann</id>
     <name>ShutdownTimer</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Shutdown your device after a specific time. This extension adds a submenu to the status area.</p><p>There is a settings menu where you can change the following:   - Maximum timer value   - Slider position   - Root mode: Uses &quot;pkexec shutdown&quot; command instead of default GNOME shutdown dialog. If monitor turns off while shutdown timer is running, then default timer in rootless mode gets interrupted. With root mode activated this can not happen, but you have to enter the root password.</p></description>
+    <description><p>Shutdown the device after a specific time.</p><p>Maximum timer value und slider position can be modified in the settings.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -3512,7 +3512,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="22"/>
+      <release version="24"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -3798,7 +3798,7 @@
     <url type="homepage">https://extensions.gnome.org/extension/358/activities-configurator/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_358_UU7izDd.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_358_qFgPDE4.png</image>
       </screenshot>
     </screenshots>
     <releases>
@@ -4706,11 +4706,11 @@
     <url type="homepage">https://extensions.gnome.org/extension/1228/arc-menu/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1228_9WEY2AI.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1228_JqBcxbt.png</image>
       </screenshot>
     </screenshots>
     <releases>
-      <release version="32"/>
+      <release version="34"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -4736,7 +4736,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="31"/>
+      <release version="32"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -6228,6 +6228,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_779_z38Ay1y.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="31"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -6576,7 +6579,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="13"/>
+      <release version="15"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -7323,6 +7326,24 @@
     </metadata>
   </component>
   <component type="shell-extension">
+    <id>disable-gestures_hitevision.com.es</id>
+    <name>Disable Gestures</name>
+    <summary>GNOME Shell Extension</summary>
+    <description><p>Disable all gnome built in gestures. Useful for kiosks and touch screen apps.</p></description>
+    <icon type="stock">application-x-addon-symbolic</icon>
+    <categories>
+      <category>Addon</category>
+      <category>ShellExtension</category>
+    </categories>
+    <project_license>GPL-2.0+</project_license>
+    <url type="homepage">https://extensions.gnome.org/extension/1331/disable-gestures/</url>
+    <metadata>
+      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
+      <value key="GnomeSoftware::Plugin">shell-extensions</value>
+      <value key="shell-extensions::uuid">disable-gestures@hitevision.com.es</value>
+    </metadata>
+  </component>
+  <component type="shell-extension">
     <id>disable-gestures_mattbell.com.au</id>
     <name>Disable Gestures</name>
     <summary>GNOME Shell Extension</summary>
@@ -7998,7 +8019,7 @@
     <id>drop-down-terminal-x_bigbn.pro</id>
     <name>Drop Down Terminal X</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>A GNOME Shell drop down terminal with extra feautures.  Includes: tabs,  multi-monitor, font scaling support;  [Focus out] / [Escape pressed] events for hide.</p><p>Special thanks to: - Balder Claassen  (https://github.com/balderclaassen) - Adrien Pyke (https://github.com/kufii) - Alan J Carvajal (https://github.com/ajcarvajal) - Massimo Mund (https://github.com/masmu) - Jakub Żywiec (https://github.com/jakubzet) - Mattias Eriksson (https://github.com/snaggen) for active contribution.</p><p>Based on original extension &quot;gs-extensions-drop-down-terminal&quot; from Stéphane Démurget (https://github.com/zzrough)</p></description>
+    <description><p>A GNOME Shell drop down terminal with extra feautures. Includes: tabs, multi-monitor, font scaling support; [Focus out] / [Escape pressed] events for hide.</p><p>Special thanks to: - Balder Claassen (https://github.com/balderclaassen) - Adrien Pyke (https://github.com/kufii) - Alan J Carvajal (https://github.com/ajcarvajal) - Massimo Mund (https://github.com/masmu) - Jakub Żywiec (https://github.com/jakubzet) - Mattias Eriksson (https://github.com/snaggen) for active contribution.</p><p>Based on original extension &quot;gs-extensions-drop-down-terminal&quot; from Stéphane Démurget (https://github.com/zzrough)</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -8012,7 +8033,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="7"/>
+      <release version="8"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -8110,7 +8131,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="31"/>
+      <release version="32"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -9687,7 +9708,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="16"/>
+      <release version="17"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -10118,29 +10139,6 @@
     </metadata>
   </component>
   <component type="shell-extension">
-    <id>gnome-shell-imgur_ttll.de</id>
-    <name>Imgur Screenshot Uploader</name>
-    <summary>GNOME Shell Extension</summary>
-    <description><p>Upload screenshots directly to imgur.com (Deprecated, now gnome-shell-screenshot)</p></description>
-    <icon type="stock">application-x-addon-symbolic</icon>
-    <categories>
-      <category>Addon</category>
-      <category>ShellExtension</category>
-    </categories>
-    <project_license>GPL-2.0+</project_license>
-    <url type="homepage">https://extensions.gnome.org/extension/683/imgur-screenshot-uploader/</url>
-    <screenshots>
-      <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_683.png</image>
-      </screenshot>
-    </screenshots>
-    <metadata>
-      <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
-      <value key="GnomeSoftware::Plugin">shell-extensions</value>
-      <value key="shell-extensions::uuid">gnome-shell-imgur@ttll.de</value>
-    </metadata>
-  </component>
-  <component type="shell-extension">
     <id>gnome-shell-open-terminal_hackunix.org</id>
     <name>GNOME Shell Open Terminal</name>
     <summary>GNOME Shell Extension</summary>
@@ -10199,7 +10197,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="37"/>
+      <release version="40"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -13523,7 +13521,7 @@
     <id>miniview_thesecretaryofwar.com</id>
     <name>Miniview</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Show a mini-preview of another window (like picture-in-picture on a TV)</p><p>- Left-mouse drag: move preview window - Right-mouse drag (or ctrl + left mouse drag): resize preview window - Scroll wheel: change target window - Double click: raise target window - Shift + F12: toggle preview window - Ctrl + scroll wheel: adjust opacity</p></description>
+    <description><p>Show a preview of another window (like picture-in-picture on a TV)</p><p>Left-mouse drag: move preview window Right-mouse drag (or ctrl + left mouse drag): resize preview window Scroll wheel: change target window Double click: raise target window Shift + F12: toggle preview window (can be modified/disabled) Ctrl + scroll wheel: adjust opacity</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -13533,11 +13531,11 @@
     <url type="homepage">https://extensions.gnome.org/extension/1459/miniview/</url>
     <screenshots>
       <screenshot type="default">
-        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1459_ugeJphD.png</image>
+        <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1459_H01T0kI.png</image>
       </screenshot>
     </screenshots>
     <releases>
-      <release version="3"/>
+      <release version="4"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -17433,7 +17431,7 @@
     <project_license>GPL-2.0+</project_license>
     <url type="homepage">https://extensions.gnome.org/extension/1096/scroll-panel/</url>
     <releases>
-      <release version="6"/>
+      <release version="7"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -18108,7 +18106,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="5"/>
+      <release version="6"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -18880,6 +18878,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_826.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="23"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -19394,6 +19395,9 @@
         <image type="source">https://extensions.gnome.org/extension-data/screenshots/screenshot_1018_p3LBLdt.png</image>
       </screenshot>
     </screenshots>
+    <releases>
+      <release version="7"/>
+    </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
       <value key="GnomeSoftware::Plugin">shell-extensions</value>
@@ -20507,7 +20511,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="14"/>
+      <release version="15"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>
@@ -20565,7 +20569,7 @@
     <id>unite_hardpixel.eu</id>
     <name>Unite</name>
     <summary>GNOME Shell Extension</summary>
-    <description><p>Unite is a GNOME Shell extension which makes a few layout tweaks to the top panel and removes window decorations to make it look like Ubuntu Unity Shell.</p><p>- Adds window buttons to the top panel for maximized windows. - Shows current window title in the app menu for maximized windows. - Removes titlebars on maximized windows. - Hides window controls on maximized windows with headerbars. - Moves the date to the right, fixes icons spacing and removes dropdown arrows. - Moves legacy tray icons to the top panel. - Moves notifications to the right. - Hides activities button. - Adds desktop name to the top panel.</p><p>This extension depends on some Xorg utilities. To install them: - Debian/Ubuntu: apt install x11-utils - Fedora/RHEL: dnf install xorg-x11-utils - Arch: pacman -S xorg-xprop</p><p>*Settings are provided to enable/disable or customize the available tweaks. * Since version 2 applications on wayland with client side decorations are supported using CSS.</p></description>
+    <description><p>Unite is a GNOME Shell extension which makes a few layout tweaks to the top panel and removes window decorations to make it look like Ubuntu Unity Shell.</p><p>- Adds window buttons to the top panel for maximized windows. - Shows current window title in the app menu for maximized windows. - Removes titlebars on maximized windows. - Hides window controls on maximized windows with headerbars. - Moves the date to the right, reduces panel spacing and removes dropdown arrows. - Moves legacy tray icons to the top panel. - Moves notifications to the right. - Hides activities button. - Adds desktop name to the top panel.</p><p>This extension depends on some Xorg utilities. To install them: - Debian/Ubuntu: apt install x11-utils - Fedora/RHEL: dnf install xorg-x11-utils - Arch: pacman -S xorg-xprop</p><p>*Settings are provided to enable/disable or customize the available tweaks. * Since version 2 applications on wayland with client side decorations are supported using CSS.</p></description>
     <icon type="stock">application-x-addon-symbolic</icon>
     <categories>
       <category>Addon</category>
@@ -20579,7 +20583,7 @@
       </screenshot>
     </screenshots>
     <releases>
-      <release version="31"/>
+      <release version="32"/>
     </releases>
     <metadata>
       <value key="GnomeSoftware::OriginHostnameUrl">https://extensions.gnome.org/</value>

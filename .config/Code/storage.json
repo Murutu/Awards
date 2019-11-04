@@ -2,9 +2,18 @@
     "telemetry.machineId": "6a4a6647727cc13d55e7eca39d28df689e0c5387d705af94e40591599c2fa39a",
     "openedPathsList": {
         "workspaces3": [
+            "file:///home/peter/Desktop/Pizza",
+            "file:///home/peter/Pizza",
+            "file:///home/peter/Desktop/address",
+            "file:///home/peter/Desktop/address-book-master",
+            "file:///home/peter/Desktop/IP3",
+            "file:///home/peter/Desktop/project2",
+            "file:///home/peter/Desktop/project/css",
+            "file:///home/peter/Desktop/IP3/js",
+            "file:///home/peter/Desktop/Calculator",
+            "file:///home/peter/Desktop/project",
             "file:///home/peter/Desktop/IP2",
             "file:///home/peter/Desktop/IP2/css/js",
-            "file:///home/peter/Desktop/Calculator",
             "file:///home/peter/Desktop/bootstrap-practice",
             "file:///home/peter/Desktop/bootstrap-practice/bootstrap-4.3.1-dist",
             "file:///home/peter/Documents/moringa-school-projects/portfolio",
@@ -19,7 +28,20 @@
             "file:///home/peter/Desktop",
             "file:///home/peter/Desktop/peter"
         ],
-        "files2": []
+        "files2": [
+            "file:///home/peter/Desktop/mapambo/services.html",
+            "file:///home/peter/Desktop/mapambo/css/login.css",
+            "file:///home/peter/Desktop/mapambo/css/main.css",
+            "file:///home/peter/Desktop/mapambo/Login.html",
+            "file:///home/peter/Desktop/mapambo/js/login.js",
+            "file:///home/peter/Desktop/mapambo/customersignup.html",
+            "file:///home/peter/Desktop/mapambo/js/signup.js",
+            "file:///home/peter/Desktop/mapambo/js/script.js",
+            "file:///home/peter/Desktop/mapambo/css/signup.css",
+            "file:///home/peter/Desktop/mapambo/index.html",
+            "file:///home/peter/Desktop/mapambo/stylistsignup.html",
+            "file:///home/peter/Desktop/mapambo/signup.html"
+        ]
     },
     "lastKnownMenubarData": {
         "menus": {
@@ -64,35 +86,89 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/peter/Desktop/bootstrap-practice",
-                                        "external": "file:///home/peter/Desktop/bootstrap-practice",
-                                        "path": "/home/peter/Desktop/bootstrap-practice",
+                                        "external": "file:///home/peter/Desktop/Pizza",
+                                        "path": "/home/peter/Desktop/Pizza",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/bootstrap-practice"
+                                    "label": "~/Desktop/Pizza"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/peter/Desktop/IP2",
-                                        "path": "/home/peter/Desktop/IP2",
+                                        "external": "file:///home/peter/Pizza",
+                                        "path": "/home/peter/Pizza",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/IP2"
+                                    "label": "~/Pizza"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/peter/Desktop/IP2/css/js",
-                                        "path": "/home/peter/Desktop/IP2/css/js",
+                                        "external": "file:///home/peter/Desktop/address",
+                                        "path": "/home/peter/Desktop/address",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/IP2/css/js"
+                                    "label": "~/Desktop/address"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/Desktop/address-book-master",
+                                        "path": "/home/peter/Desktop/address-book-master",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/address-book-master"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/Desktop/IP3",
+                                        "path": "/home/peter/Desktop/IP3",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/IP3"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/Desktop/project2",
+                                        "path": "/home/peter/Desktop/project2",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/project2"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/Desktop/project/css",
+                                        "path": "/home/peter/Desktop/project/css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/project/css"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/Desktop/IP3/js",
+                                        "path": "/home/peter/Desktop/IP3/js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/IP3/js"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -109,67 +185,125 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/peter/Desktop/bootstrap-practice/bootstrap-4.3.1-dist",
-                                        "path": "/home/peter/Desktop/bootstrap-practice/bootstrap-4.3.1-dist",
+                                        "external": "file:///home/peter/Desktop/project",
+                                        "path": "/home/peter/Desktop/project",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Desktop/bootstrap-practice/bootstrap-4.3.1-dist"
+                                    "label": "~/Desktop/project"
                                 },
                                 {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/peter/Documents/moringa-school-projects/portfolio",
-                                        "path": "/home/peter/Documents/moringa-school-projects/portfolio",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Documents/moringa-school-projects/portfolio"
+                                    "id": "vscode.menubar.separator"
                                 },
                                 {
-                                    "id": "openRecentFolder",
+                                    "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/peter/Documents/practice",
-                                        "path": "/home/peter/Documents/practice",
+                                        "external": "file:///home/peter/Desktop/mapambo/stylistsignup.html",
+                                        "path": "/home/peter/Desktop/mapambo/stylistsignup.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/practice"
+                                    "label": "~/Desktop/mapambo/stylistsignup.html"
                                 },
                                 {
-                                    "id": "openRecentFolder",
+                                    "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/peter/Documents/moringa-school-projects",
-                                        "path": "/home/peter/Documents/moringa-school-projects",
+                                        "external": "file:///home/peter/Desktop/mapambo/services.html",
+                                        "path": "/home/peter/Desktop/mapambo/services.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/moringa-school-projects"
+                                    "label": "~/Desktop/mapambo/services.html"
                                 },
                                 {
-                                    "id": "openRecentFolder",
+                                    "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/peter/Documents/Today",
-                                        "path": "/home/peter/Documents/Today",
+                                        "external": "file:///home/peter/Desktop/mapambo/css/login.css",
+                                        "path": "/home/peter/Desktop/mapambo/css/login.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/Today"
+                                    "label": "~/Desktop/mapambo/css/login.css"
                                 },
                                 {
-                                    "id": "openRecentFolder",
+                                    "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/peter/Documents/branching-test-project",
-                                        "path": "/home/peter/Documents/branching-test-project",
+                                        "external": "file:///home/peter/Desktop/mapambo/css/main.css",
+                                        "path": "/home/peter/Desktop/mapambo/css/main.css",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/Documents/branching-test-project"
+                                    "label": "~/Desktop/mapambo/css/main.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/Desktop/mapambo/Login.html",
+                                        "path": "/home/peter/Desktop/mapambo/Login.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/mapambo/Login.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/Desktop/mapambo/js/login.js",
+                                        "path": "/home/peter/Desktop/mapambo/js/login.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/mapambo/js/login.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/Desktop/mapambo/customersignup.html",
+                                        "path": "/home/peter/Desktop/mapambo/customersignup.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/mapambo/customersignup.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/Desktop/mapambo/js/signup.js",
+                                        "path": "/home/peter/Desktop/mapambo/js/signup.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/mapambo/js/signup.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/Desktop/mapambo/js/script.js",
+                                        "path": "/home/peter/Desktop/mapambo/js/script.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/mapambo/js/script.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/peter/Desktop/mapambo/css/signup.css",
+                                        "path": "/home/peter/Desktop/mapambo/css/signup.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Desktop/mapambo/css/signup.css"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -280,7 +414,8 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder"
+                        "label": "Close &&Folder",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -927,8 +1062,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1491,17 +1625,16 @@
     "themeBackground": "#1e1e1e",
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/peter/Documents/moringa-school-projects/hello-world/project-moringa-school-projects",
-            "backupPath": "/home/peter/.config/Code/Backups/6868c1d7ce844d58393404528b04882e",
+            "backupPath": "/home/peter/.config/Code/Backups/1570514460237",
             "uiState": {
-                "mode": 1,
-                "x": 716,
+                "mode": 0,
+                "x": 67,
                 "y": 55,
-                "width": 650,
+                "width": 1299,
                 "height": 713
             }
         },
         "openedWindows": []
     },
-    "pickerWorkingDir": "/home/peter/Documents/moringa-school-projects"
+    "pickerWorkingDir": "/home/peter/Desktop/mapambo"
 }

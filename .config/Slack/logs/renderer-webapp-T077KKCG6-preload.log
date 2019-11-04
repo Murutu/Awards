@@ -1015,3 +1015,1315 @@
 [09/22/19, 19:11:28:967] info: Store: SET_SUSPEND_STATUS true
 [09/22/19, 19:11:44:756] info: Store: SET_NETWORK_STATUS online
 [09/22/19, 19:11:49:681] error: Sep-22 19:11:49.681 can't ingest custom emoji ::carlton:: because it's invalid
+[10/04/19, 09:12:14:851] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/04/19, 09:12:14:852] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 10/04/19, 09:12:14:847      ║
+[10/04/19, 09:12:14:852] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/04/19, 09:12:15:068] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[10/04/19, 09:12:15:741] info: Read UUID from file successful
+{
+  "uuid": "0354bf9a-e196-5730-b520-4d44c18831b1"
+}
+[10/04/19, 09:12:18:043] info: cld3::loadModule: loading cld3 module
+[10/04/19, 09:12:18:094] info: cld3Loader::loadModule: running environment is NODE
+[10/04/19, 09:12:18:094] info: cld3Loader::loadModule: constructed module object for runtime
+[10/04/19, 09:12:18:207] info: SpellChecker:: updateSpellcheckerLanguage: Skip to set new language null, v2 spellchecker is not available
+[10/04/19, 09:12:18:233] info: Main window preload script finished
+{
+  "readyTime": 4740.924836
+}
+[10/04/19, 09:12:19:609] info: cld3Loader::initializeRuntime: successfully initialized module
+[10/04/19, 09:12:19:609] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[10/04/19, 09:12:44:557] info: Store: SET_FULL_SCREEN
+[10/04/19, 09:12:45:092] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[10/04/19, 09:13:03:089] info: Store: UPDATE_SETTINGS
+{
+  "userTheme": "light"
+}
+[10/04/19, 09:13:03:090] info: Store: UPDATE_SETTINGS
+{
+  "systemThemeSyncEnabled": false
+}
+[10/04/19, 09:13:03:268] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T077KKCG6"
+}
+[10/04/19, 09:13:03:591] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T077KKCG6"
+}
+[10/04/19, 09:13:04:277] error: Oct-4 09:13:04.276 can't ingest custom emoji ::carlton:: because it's invalid
+[10/04/19, 09:13:04:487] info: Skipping request to provide hint content for channel for spellchecker
+{
+  "version": "V2"
+}
+[10/04/19, 09:13:06:019] info: postLoadTaskSetup: Desktop client fully loaded
+{
+  "loadedTime": 200478004.68966
+}
+[10/04/19, 09:13:06:272] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/04/19, 09:13:06:377] info: Store: SELECT_CHANNEL GN47Z099B
+[10/04/19, 09:13:06:381] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/04/19, 09:13:06:382] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T077KKCG6",
+  "theme": {
+    "active_item": "#1264A3",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#2BAC76",
+    "badge": "#CD2553",
+    "column_bg": "#3F0E40",
+    "hover_item": "#350D36",
+    "menu_bg": "#350d36",
+    "text_color": "#FFFFFF"
+  }
+}
+[10/04/19, 09:13:06:384] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T077KKCG6"
+}
+[10/04/19, 09:13:06:464] info: Store: STORE_ENTERPRISE_ID_PAIR
+{
+  "enterpriseId": null,
+  "teamId": "T077KKCG6"
+}
+[10/04/19, 09:13:09:261] info: postLoadTaskSetup: Setup spellchecker
+{
+  "version": "V2"
+}
+[10/04/19, 09:13:09:435] info: loadAsmModule: loading hunspell-asm module
+[10/04/19, 09:13:10:334] info: loadAsmModule: asm module loaded successfully
+[10/04/19, 09:13:10:334] info: SpellChecker: Starting spellchecker with language detector
+[10/04/19, 09:13:10:334] info: SpellChecker::enableSpellCheckerLanguageDetector: enable spellchecker language detector
+[10/04/19, 09:13:10:335] info: SpellChecker::startWithDictionary: Starting language detector with preloaded dict from last used language en
+[10/04/19, 09:13:10:512] info: SpellChecker::spellgetLanguageRegionCode: found region supported language
+{
+  "code": "en"
+}
+[10/04/19, 09:13:10:512] info: SpellChecker::getLanguageRegionCode: return language code with region
+{
+  "code": "en-us"
+}
+[10/04/19, 09:13:10:512] info: download: downloading dictionary for 'en-us'
+[10/04/19, 09:13:10:513] info: fetchResourceAsBuffer: downloading
+{
+  "filePath": "https://spellcheck.slack-edge.com/dictionaries/en-us/1/en-us.aff",
+  "cachePolicy": "default"
+}
+[10/04/19, 09:13:10:769] info: fetchResourceAsBuffer: downloading
+{
+  "filePath": "https://spellcheck.slack-edge.com/dictionaries/en-us/1/en-us.dic",
+  "cachePolicy": "default"
+}
+[10/04/19, 09:13:10:956] info: dictionaryDownloader: verifying hash
+[10/04/19, 09:13:11:009] info: SpellChecker::downloadDictionary: Dictionary is ready for 
+{
+  "language": "en"
+}
+[10/04/19, 09:13:11:080] info: assignSpellchecker: spellCheckerTable added new checker for 'en'
+[10/04/19, 09:13:11:083] info: SpellChecker::prepareDictionary: Dictionary buffer for 'en' is loaded into spellchecker
+[10/04/19, 09:13:11:084] info: switchDictionary: switching dictionary to check spell from 'null' to 'en'
+[10/04/19, 09:13:11:270] info: SpellChecker::switchDictionary: SpellChecker enabled for language
+{
+  "language": "en"
+}
+[10/04/19, 09:13:48:039] info: Store: SET_FULL_SCREEN
+[10/04/19, 09:26:48:946] error: Oct-4 09:26:48.946 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/04/19, 10:09:13:340] error: Oct-4 10:09:13.339 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/04/19, 10:30:30:342] error: Oct-4 10:30:30.340 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/04/19, 10:51:54:340] error: Oct-4 10:51:54.340 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/04/19, 11:12:56:340] error: Oct-4 11:12:56.338 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/04/19, 11:34:21:340] error: Oct-4 11:34:21.339 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/04/19, 12:57:59:360] error: Oct-4 12:57:59.360 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/04/19, 13:10:05:432] info: Store: SET_FULL_SCREEN
+[10/04/19, 13:10:05:433] info: Store: SET_FULL_SCREEN
+[10/04/19, 13:10:06:398] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[10/04/19, 13:10:06:399] info: Store: SET_FULL_SCREEN
+[10/04/19, 13:10:09:260] info: Store: SET_FULL_SCREEN
+[10/04/19, 13:10:09:261] info: Store: SET_FULL_SCREEN
+[10/04/19, 13:10:21:056] info: Store: SET_FULL_SCREEN
+[10/04/19, 13:32:45:422] info: Store: SET_FULL_SCREEN
+[10/04/19, 13:32:46:034] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[10/04/19, 13:32:59:298] info: Store: SET_FULL_SCREEN
+[10/04/19, 13:40:29:339] error: Oct-4 13:40:29.339 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/04/19, 15:24:24:586] info: Store: SET_FULL_SCREEN
+[10/04/19, 15:24:26:436] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[10/04/19, 15:25:01:421] info: Store: SET_FULL_SCREEN
+[10/04/19, 15:39:38:763] info: Store: SET_FULL_SCREEN
+[10/04/19, 15:39:39:396] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[10/04/19, 15:40:45:121] info: Store: SET_FULL_SCREEN
+[10/04/19, 15:44:37:402] info: Store: SET_FULL_SCREEN
+[10/04/19, 15:44:38:303] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    205,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[10/04/19, 15:44:40:895] info: Skipping request to provide hint content for channel for spellchecker
+{
+  "version": "V2"
+}
+[10/04/19, 15:44:42:050] info: Store: SELECT_CHANNEL DNV4CLVJ9
+[10/04/19, 15:45:28:733] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    1024,
+    711
+  ]
+}
+[10/04/19, 15:45:37:067] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    626,
+    711
+  ]
+}
+[10/04/19, 15:45:38:448] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/04/19, 15:45:41:875] info: Store: SET_FULL_SCREEN
+[10/04/19, 16:27:18:560] info: Store: SET_FULL_SCREEN
+[10/04/19, 16:27:19:344] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/04/19, 16:27:25:598] info: Store: SET_FULL_SCREEN
+[10/04/19, 16:31:19:134] info: Store: SET_FULL_SCREEN
+[10/04/19, 16:31:20:800] info: Store: SET_FULL_SCREEN
+[10/04/19, 16:42:03:164] info: Store: SET_FULL_SCREEN
+[10/04/19, 16:42:04:810] info: Store: SET_FULL_SCREEN
+[10/04/19, 18:06:12:330] info: Store: SET_SUSPEND_STATUS
+[10/04/19, 18:06:16:827] info: Store: SET_NETWORK_STATUS offline
+[10/04/19, 18:51:06:143] info: Store: SET_SUSPEND_STATUS true
+[10/04/19, 18:51:20:958] info: Store: SET_NETWORK_STATUS online
+[10/04/19, 18:51:26:011] error: Oct-4 18:51:26.011 can't ingest custom emoji ::carlton:: because it's invalid
+[10/04/19, 18:51:26:371] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/04/19, 18:51:26:386] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/04/19, 19:57:17:311] info: Store: SET_SUSPEND_STATUS
+[10/04/19, 19:57:18:603] info: Store: SET_NETWORK_STATUS offline
+[10/06/19, 12:09:30:209] info: Store: SET_SUSPEND_STATUS true
+[10/06/19, 12:09:44:497] info: Store: SET_NETWORK_STATUS online
+[10/06/19, 12:09:51:545] error: Oct-6 12:09:51.545 can't ingest custom emoji ::carlton:: because it's invalid
+[10/06/19, 12:09:51:825] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 12:09:51:826] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 13:27:08:046] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 13:27:08:926] info: Window is unloading, window.desktop is no longer accessible
+[10/06/19, 13:27:09:567] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 13:27:12:027] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/06/19, 13:27:12:029] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 10/06/19, 13:27:12:024      ║
+[10/06/19, 13:27:12:029] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/06/19, 13:27:12:200] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[10/06/19, 13:27:12:686] info: Read UUID from file successful
+{
+  "uuid": "0354bf9a-e196-5730-b520-4d44c18831b1"
+}
+[10/06/19, 13:27:14:327] info: cld3::loadModule: loading cld3 module
+[10/06/19, 13:27:14:370] info: cld3Loader::loadModule: running environment is NODE
+[10/06/19, 13:27:14:370] info: cld3Loader::loadModule: constructed module object for runtime
+[10/06/19, 13:27:14:501] info: SpellChecker:: updateSpellcheckerLanguage: Skip to set new language null, v2 spellchecker is not available
+[10/06/19, 13:27:14:522] info: Main window preload script finished
+{
+  "readyTime": 3440.152379
+}
+[10/06/19, 13:27:15:339] info: cld3Loader::initializeRuntime: successfully initialized module
+[10/06/19, 13:27:15:340] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[10/06/19, 13:27:25:459] info: Store: UPDATE_SETTINGS
+{
+  "userTheme": "light"
+}
+[10/06/19, 13:27:25:462] info: Store: UPDATE_SETTINGS
+{
+  "systemThemeSyncEnabled": false
+}
+[10/06/19, 13:27:25:753] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 13:27:26:197] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 13:27:27:469] error: Oct-6 13:27:27.469 can't ingest custom emoji ::carlton:: because it's invalid
+[10/06/19, 13:27:27:659] info: Skipping request to provide hint content for channel for spellchecker
+{
+  "version": "V2"
+}
+[10/06/19, 13:27:28:263] info: postLoadTaskSetup: Desktop client fully loaded
+{
+  "loadedTime": 241135675.824769
+}
+[10/06/19, 13:27:28:288] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 13:27:28:445] info: Store: SELECT_CHANNEL DNV4CLVJ9
+[10/06/19, 13:27:28:446] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 13:27:28:448] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T077KKCG6",
+  "theme": {
+    "active_item": "#1264A3",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#2BAC76",
+    "badge": "#CD2553",
+    "column_bg": "#3F0E40",
+    "hover_item": "#350D36",
+    "menu_bg": "#350d36",
+    "text_color": "#FFFFFF"
+  }
+}
+[10/06/19, 13:27:28:450] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 13:27:28:496] info: Store: STORE_ENTERPRISE_ID_PAIR
+{
+  "enterpriseId": null,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 14:49:49:757] info: Store: NEW_NOTIFICATION
+{
+  "channel": "DNV4CLVJ9",
+  "id": "9WgImhOMpZ3mGP",
+  "launchUri": "slack://channel?id=DNV4CLVJ9&message=1570362589.000300&team=T077KKCG6",
+  "silent": true,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 17:00:27:403] info: Store: SET_FULL_SCREEN
+[10/06/19, 17:00:30:623] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/06/19, 17:00:32:358] info: postLoadTaskSetup: Setup spellchecker
+{
+  "version": "V2"
+}
+[10/06/19, 17:00:32:754] info: loadAsmModule: loading hunspell-asm module
+[10/06/19, 17:00:34:243] info: loadAsmModule: asm module loaded successfully
+[10/06/19, 17:00:34:243] info: SpellChecker: Starting spellchecker with language detector
+[10/06/19, 17:00:34:244] info: SpellChecker::enableSpellCheckerLanguageDetector: enable spellchecker language detector
+[10/06/19, 17:00:34:244] info: SpellChecker::startWithDictionary: Starting language detector with preloaded dict from last used language en
+[10/06/19, 17:00:34:253] info: SpellChecker::spellgetLanguageRegionCode: found region supported language
+{
+  "code": "en"
+}
+[10/06/19, 17:00:34:253] info: SpellChecker::getLanguageRegionCode: return language code with region
+{
+  "code": "en-us"
+}
+[10/06/19, 17:00:34:254] info: download: downloading dictionary for 'en-us'
+[10/06/19, 17:00:34:254] info: fetchResourceAsBuffer: downloading
+{
+  "filePath": "https://spellcheck.slack-edge.com/dictionaries/en-us/1/en-us.aff",
+  "cachePolicy": "default"
+}
+[10/06/19, 17:00:34:551] info: fetchResourceAsBuffer: downloading
+{
+  "filePath": "https://spellcheck.slack-edge.com/dictionaries/en-us/1/en-us.dic",
+  "cachePolicy": "default"
+}
+[10/06/19, 17:00:34:718] info: dictionaryDownloader: verifying hash
+[10/06/19, 17:00:34:759] info: SpellChecker::downloadDictionary: Dictionary is ready for 
+{
+  "language": "en"
+}
+[10/06/19, 17:00:34:830] info: assignSpellchecker: spellCheckerTable added new checker for 'en'
+[10/06/19, 17:00:34:832] info: SpellChecker::prepareDictionary: Dictionary buffer for 'en' is loaded into spellchecker
+[10/06/19, 17:00:34:833] info: switchDictionary: switching dictionary to check spell from 'null' to 'en'
+[10/06/19, 17:00:34:873] info: SpellChecker::switchDictionary: SpellChecker enabled for language
+{
+  "language": "en"
+}
+[10/06/19, 17:00:57:215] info: Store: SET_FULL_SCREEN
+[10/06/19, 17:48:37:399] info: Store: NEW_NOTIFICATION
+{
+  "channel": "DNV4CLVJ9",
+  "id": "l17u1iqrJNp6yX",
+  "launchUri": "slack://channel?id=DNV4CLVJ9&message=1570373315.001200&team=T077KKCG6",
+  "silent": true,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 17:48:45:315] info: Store: NEW_NOTIFICATION
+{
+  "channel": "DNV4CLVJ9",
+  "id": "JBQHpsLl7Kq1ow",
+  "launchUri": "slack://channel?id=DNV4CLVJ9&message=1570373324.001500&team=T077KKCG6",
+  "silent": true,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 17:48:50:543] info: Store: NEW_NOTIFICATION
+{
+  "channel": "DNV4CLVJ9",
+  "id": "5PLSWt2MG9Em9B",
+  "launchUri": "slack://channel?id=DNV4CLVJ9&message=1570373330.001700&team=T077KKCG6",
+  "silent": true,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 18:24:20:506] info: Store: SET_FULL_SCREEN
+[10/06/19, 18:24:21:246] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/06/19, 18:24:39:747] info: Store: SET_FULL_SCREEN
+[10/06/19, 20:18:41:912] info: Store: SET_NETWORK_STATUS offline
+[10/06/19, 20:23:47:915] info: Store: SET_NETWORK_STATUS online
+[10/06/19, 20:23:53:959] error: Oct-6 20:23:53.959 can't ingest custom emoji ::carlton:: because it's invalid
+[10/06/19, 20:23:54:460] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 20:23:54:463] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 20:24:23:929] info: Store: SET_NETWORK_STATUS offline
+[10/06/19, 20:24:40:914] info: Store: SET_NETWORK_STATUS online
+[10/06/19, 20:26:22:482] info: Store: SET_FULL_SCREEN
+[10/06/19, 20:26:23:466] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/06/19, 20:26:41:446] info: Store: SET_FULL_SCREEN
+[10/06/19, 20:44:13:161] info: Store: SELECT_TEAM T077KKCG6
+[10/06/19, 20:44:13:174] info: Store: FOREGROUND_APP
+[10/06/19, 20:44:13:540] info: Store: SET_FULL_SCREEN
+[10/06/19, 20:44:14:216] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/06/19, 20:44:18:438] info: Skipping request to provide hint content for channel for spellchecker
+{
+  "version": "V2"
+}
+[10/06/19, 20:44:19:334] info: Store: SELECT_CHANNEL GN47Z099B
+[10/06/19, 20:45:50:815] info: Skipping request to provide hint content for channel for spellchecker
+{
+  "version": "V2"
+}
+[10/06/19, 20:45:50:984] info: Store: SELECT_CHANNEL DP3EZAWAC
+[10/06/19, 20:46:11:791] info: Store: SET_FULL_SCREEN
+[10/06/19, 20:47:01:754] info: Store: NEW_NOTIFICATION
+{
+  "channel": "DP3EZAWAC",
+  "id": "QM7uouk3wnXV7N",
+  "launchUri": "slack://channel?id=DP3EZAWAC&message=1570384021.000600&team=T077KKCG6",
+  "silent": true,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 20:47:17:151] info: Store: SET_FULL_SCREEN
+[10/06/19, 20:47:17:882] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/06/19, 20:47:44:814] info: Store: SET_FULL_SCREEN
+[10/06/19, 20:48:33:638] info: Store: NEW_NOTIFICATION
+{
+  "channel": "DP3EZAWAC",
+  "id": "q1ZukCEJjWk4BV",
+  "launchUri": "slack://channel?id=DP3EZAWAC&message=1570384113.002000&team=T077KKCG6",
+  "silent": true,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 20:48:49:094] info: Store: NEW_NOTIFICATION
+{
+  "channel": "DP3EZAWAC",
+  "id": "g02UmF3M5kRqrE",
+  "launchUri": "slack://channel?id=DP3EZAWAC&message=1570384128.002400&team=T077KKCG6",
+  "silent": true,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 20:48:49:541] info: Store: SET_FULL_SCREEN
+[10/06/19, 20:48:50:227] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/06/19, 20:49:24:844] info: Store: SET_FULL_SCREEN
+[10/06/19, 20:51:05:174] info: Store: NEW_NOTIFICATION
+{
+  "channel": "DP3EZAWAC",
+  "id": "JBQHyHLl786k8g",
+  "launchUri": "slack://channel?id=DP3EZAWAC&message=1570384264.003400&team=T077KKCG6",
+  "silent": true,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 20:59:34:941] info: Store: SET_FULL_SCREEN
+[10/06/19, 20:59:35:826] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/06/19, 21:00:08:958] info: Store: SET_FULL_SCREEN
+[10/06/19, 21:00:18:325] info: Store: NEW_NOTIFICATION
+{
+  "channel": "DP3EZAWAC",
+  "id": "VRQizIJDjO4p4K",
+  "launchUri": "slack://channel?id=DP3EZAWAC&message=1570384818.004300&team=T077KKCG6",
+  "silent": true,
+  "teamId": "T077KKCG6"
+}
+[10/06/19, 21:11:23:076] info: Store: SET_SUSPEND_STATUS
+[10/06/19, 21:11:23:925] info: Store: SET_NETWORK_STATUS offline
+[10/07/19, 08:04:24:793] info: Store: SET_SUSPEND_STATUS true
+[10/07/19, 08:04:35:388] error: Oct-7 08:04:35.387 can't ingest custom emoji ::carlton:: because it's invalid
+[10/07/19, 08:04:36:310] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/07/19, 08:04:36:324] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/07/19, 08:04:37:285] info: Store: SET_NETWORK_STATUS online
+[10/07/19, 08:39:45:993] info: Store: SET_FULL_SCREEN
+[10/07/19, 08:39:46:877] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/07/19, 08:39:49:717] info: Skipping request to provide hint content for channel for spellchecker
+{
+  "version": "V2"
+}
+[10/07/19, 08:39:50:001] info: Store: SELECT_CHANNEL GN47Z099B
+[10/07/19, 08:39:52:035] info: Store: SET_FULL_SCREEN
+[10/07/19, 09:32:42:471] info: Store: SET_SUSPEND_STATUS
+[10/07/19, 09:32:45:407] info: Store: SET_NETWORK_STATUS offline
+[10/07/19, 09:33:27:287] info: Store: SET_SUSPEND_STATUS true
+[10/07/19, 09:33:39:761] info: Store: SET_NETWORK_STATUS online
+[10/07/19, 09:54:46:976] error: Oct-7 09:54:46.969 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/07/19, 10:15:57:390] error: Oct-7 10:15:56.364 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/07/19, 10:52:45:074] info: Store: SET_FULL_SCREEN
+[10/07/19, 10:52:45:075] info: Store: SET_FULL_SCREEN
+[10/07/19, 10:52:48:196] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/07/19, 10:52:48:197] info: Store: SET_FULL_SCREEN
+[10/07/19, 10:58:10:732] error: Oct-7 10:58:10.732 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/07/19, 11:19:13:015] error: Oct-7 11:19:13.015 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/07/19, 12:01:14:787] error: Oct-7 12:01:14.786 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/07/19, 12:01:34:788] error: Oct-7 12:01:34.788 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/07/19, 12:02:12:863] info: Store: SET_FULL_SCREEN
+[10/07/19, 12:02:12:867] info: Store: SET_FULL_SCREEN
+[10/07/19, 12:02:13:719] info: Store: SET_FULL_SCREEN
+[10/07/19, 12:02:53:892] info: Store: SET_FULL_SCREEN
+[10/07/19, 12:03:00:655] info: Store: SET_FULL_SCREEN
+[10/07/19, 13:04:35:304] info: Store: SET_SUSPEND_STATUS
+[10/07/19, 13:04:37:527] info: Store: SET_NETWORK_STATUS offline
+[10/07/19, 14:10:16:694] info: Store: SET_SUSPEND_STATUS true
+[10/07/19, 14:10:35:913] error: Oct-7 14:10:35.913 can't ingest custom emoji ::carlton:: because it's invalid
+[10/07/19, 14:10:36:703] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/07/19, 14:10:36:707] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/07/19, 14:11:51:732] info: Store: SET_FULL_SCREEN
+[10/07/19, 14:11:53:068] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/07/19, 14:11:53:443] info: Store: SET_NETWORK_STATUS online
+[10/07/19, 14:12:08:595] info: Store: SET_FULL_SCREEN
+[10/07/19, 14:31:36:838] error: Oct-7 14:31:36.838 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/07/19, 14:35:41:778] info: Store: SET_SUSPEND_STATUS
+[10/07/19, 14:35:42:837] info: Store: SET_NETWORK_STATUS offline
+[10/07/19, 16:02:54:122] info: Store: SET_SUSPEND_STATUS true
+[10/07/19, 16:03:05:960] error: Oct-7 16:03:05.959 can't ingest custom emoji ::carlton:: because it's invalid
+[10/07/19, 16:03:06:282] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/07/19, 16:03:06:283] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/07/19, 16:03:06:931] info: Store: SET_NETWORK_STATUS online
+[10/07/19, 16:24:07:915] error: Oct-7 16:24:07.914 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/07/19, 16:39:54:231] info: Store: SET_SUSPEND_STATUS
+[10/07/19, 16:39:55:954] info: Store: SET_NETWORK_STATUS offline
+[10/08/19, 08:08:48:403] info: Store: SET_SUSPEND_STATUS true
+[10/08/19, 08:08:56:336] info: Store: SET_NETWORK_STATUS online
+[10/08/19, 08:08:57:372] error: Oct-8 08:08:57.372 can't ingest custom emoji ::carlton:: because it's invalid
+[10/08/19, 08:08:58:134] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/08/19, 08:08:58:139] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/08/19, 08:09:16:094] info: Store: SET_FULL_SCREEN
+[10/08/19, 08:09:16:682] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/08/19, 08:10:01:886] info: Store: SET_FULL_SCREEN
+[10/08/19, 08:29:58:790] error: Oct-8 08:29:58.790 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/08/19, 09:10:23:504] info: Store: SET_FULL_SCREEN
+[10/08/19, 09:10:24:896] info: Store: SET_FULL_SCREEN
+[10/08/19, 11:17:28:161] error: Oct-8 11:17:28.161 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/08/19, 11:38:44:163] error: Oct-8 11:38:44.162 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/08/19, 12:00:12:160] error: Oct-8 12:00:12.160 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/08/19, 13:44:56:172] error: Oct-8 13:44:56.171 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/08/19, 15:08:26:161] error: Oct-8 15:08:26.160 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/08/19, 15:35:11:469] info: Store: SELECT_TEAM T077KKCG6
+[10/08/19, 15:35:11:469] info: Store: FOREGROUND_APP
+[10/08/19, 15:35:15:115] info: Store: SET_FULL_SCREEN
+[10/08/19, 15:35:15:118] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/08/19, 15:35:19:450] info: Store: UPDATE_SETTINGS
+{
+  "hasRunFromTray": true
+}
+[10/08/19, 15:35:19:451] info: Store: SHOW_TRAY_BALLOON
+{
+  "content": "Slack’s set to stay running in the notification area. To change this, visit Preferences > Linux App.",
+  "title": "Why didn’t Slack quit?"
+}
+[10/08/19, 15:35:19:642] info: Store: SET_FULL_SCREEN
+[10/08/19, 15:35:19:644] info: Store: SET_FULL_SCREEN
+[10/08/19, 15:35:20:731] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    27
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/08/19, 15:50:48:163] error: Oct-8 15:50:48.162 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/08/19, 16:53:05:162] error: Oct-8 16:53:05.161 (T077KKCG6) {"error":"operation timed out"} failed to fetch all members for channel GN47Z099B Flannel error
+[10/08/19, 17:48:32:264] info: Store: SET_SUSPEND_STATUS
+[10/08/19, 17:48:34:524] info: Store: SET_NETWORK_STATUS offline
+[10/09/19, 10:53:51:836] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/09/19, 10:53:51:842] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 10/09/19, 10:53:51:830      ║
+[10/09/19, 10:53:51:842] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/09/19, 10:53:52:042] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[10/09/19, 10:53:52:353] info: Read UUID from file successful
+{
+  "uuid": "0354bf9a-e196-5730-b520-4d44c18831b1"
+}
+[10/09/19, 10:53:52:783] info: cld3::loadModule: loading cld3 module
+[10/09/19, 10:53:52:826] info: cld3Loader::loadModule: running environment is NODE
+[10/09/19, 10:53:52:826] info: cld3Loader::loadModule: constructed module object for runtime
+[10/09/19, 10:53:52:867] info: SpellChecker:: updateSpellcheckerLanguage: Skip to set new language null, v2 spellchecker is not available
+[10/09/19, 10:53:52:899] info: Main window preload script finished
+{
+  "readyTime": 1610.211677
+}
+[10/09/19, 10:53:53:749] info: cld3Loader::initializeRuntime: successfully initialized module
+[10/09/19, 10:53:53:749] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[10/09/19, 10:55:12:463] info: Store: UPDATE_SETTINGS
+{
+  "userTheme": "light"
+}
+[10/09/19, 10:55:12:517] info: Store: UPDATE_SETTINGS
+{
+  "systemThemeSyncEnabled": false
+}
+[10/09/19, 10:55:28:451] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T077KKCG6"
+}
+[10/09/19, 10:55:28:453] info: Store: MAIN_WINDOW_SHOWN
+[10/09/19, 10:55:28:712] info: Store: SET_FULL_SCREEN
+[10/09/19, 10:55:28:712] info: Store: SET_FULL_SCREEN
+[10/09/19, 10:55:30:039] info: Store: SET_FULL_SCREEN
+[10/09/19, 10:55:30:039] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T077KKCG6"
+}
+[10/09/19, 10:55:30:044] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/09/19, 10:55:30:047] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/09/19, 10:55:30:441] info: Skipping request to provide hint content for channel for spellchecker
+{
+  "version": "V2"
+}
+[10/09/19, 10:55:32:047] info: Store: SELECT_CHANNEL C077KNK28
+[10/09/19, 10:55:32:048] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/09/19, 10:55:32:049] info: Store: UPDATE_SETTINGS
+{
+  "locale": "en-US"
+}
+[10/09/19, 10:55:32:057] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T077KKCG6",
+  "theme": {
+    "active_item": "#1264A3",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#2BAC76",
+    "badge": "#CD2553",
+    "column_bg": "#3F0E40",
+    "hover_item": "#350D36",
+    "menu_bg": "#350d36",
+    "text_color": "#FFFFFF"
+  }
+}
+[10/09/19, 10:55:32:251] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T077KKCG6"
+}
+[10/09/19, 10:55:32:877] error: Oct-9 10:55:32.877 can't ingest custom emoji ::carlton:: because it's invalid
+[10/09/19, 10:55:33:117] info: Store: STORE_ENTERPRISE_ID_PAIR
+{
+  "enterpriseId": null,
+  "teamId": "T077KKCG6"
+}
+[10/09/19, 10:55:34:783] info: postLoadTaskSetup: Setup spellchecker
+{
+  "version": "V2"
+}
+[10/09/19, 10:55:34:818] info: loadAsmModule: loading hunspell-asm module
+[10/09/19, 10:55:35:715] info: loadAsmModule: asm module loaded successfully
+[10/09/19, 10:55:35:716] info: SpellChecker: Starting spellchecker with language detector
+[10/09/19, 10:55:35:716] info: SpellChecker::enableSpellCheckerLanguageDetector: enable spellchecker language detector
+[10/09/19, 10:55:35:716] info: SpellChecker::startWithDictionary: Starting language detector with English by default
+[10/09/19, 10:55:35:726] info: SpellChecker::spellgetLanguageRegionCode: found region supported language
+{
+  "code": "en"
+}
+[10/09/19, 10:55:35:727] info: SpellChecker::getLanguageRegionCode: return language code with region
+{
+  "code": "en-us"
+}
+[10/09/19, 10:55:35:727] info: download: downloading dictionary for 'en-us'
+[10/09/19, 10:55:35:728] info: fetchResourceAsBuffer: downloading
+{
+  "filePath": "https://spellcheck.slack-edge.com/dictionaries/en-us/1/en-us.aff",
+  "cachePolicy": "default"
+}
+[10/09/19, 10:55:35:754] info: fetchResourceAsBuffer: downloading
+{
+  "filePath": "https://spellcheck.slack-edge.com/dictionaries/en-us/1/en-us.dic",
+  "cachePolicy": "default"
+}
+[10/09/19, 10:55:35:784] info: dictionaryDownloader: verifying hash
+[10/09/19, 10:55:36:107] info: SpellChecker::downloadDictionary: Dictionary is ready for 
+{
+  "language": "en"
+}
+[10/09/19, 10:55:36:181] info: assignSpellchecker: spellCheckerTable added new checker for 'en'
+[10/09/19, 10:55:36:199] info: SpellChecker::prepareDictionary: Dictionary buffer for 'en' is loaded into spellchecker
+[10/09/19, 10:55:36:200] info: switchDictionary: switching dictionary to check spell from 'null' to 'en'
+[10/09/19, 10:55:36:207] info: SpellChecker::switchDictionary: SpellChecker enabled for language
+{
+  "language": "en"
+}
+[10/09/19, 10:56:00:890] info: Skipping request to provide hint content for channel for spellchecker
+{
+  "version": "V2"
+}
+[10/09/19, 10:56:01:043] info: Store: SELECT_CHANNEL GN47Z099B
+[10/09/19, 10:59:46:820] info: Store: SET_FULL_SCREEN
+[10/09/19, 12:11:55:112] info: Store: SET_FULL_SCREEN
+[10/09/19, 12:11:56:610] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/09/19, 12:11:56:619] info: Store: SET_FULL_SCREEN
+[10/09/19, 14:49:49:281] info: Store: SET_FULL_SCREEN
+[10/09/19, 14:49:49:283] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/09/19, 14:49:49:551] info: Store: SET_FULL_SCREEN
+[10/09/19, 14:50:02:371] info: Store: SET_FULL_SCREEN
+[10/09/19, 14:50:03:578] info: Store: SET_FULL_SCREEN
+[10/09/19, 14:50:47:276] info: Store: SET_FULL_SCREEN
+[10/09/19, 14:50:50:246] info: Store: SET_FULL_SCREEN
+[10/09/19, 16:49:05:027] info: Store: SET_SUSPEND_STATUS
+[10/09/19, 16:49:07:090] info: Store: SET_NETWORK_STATUS offline
+[10/09/19, 17:15:32:633] info: Store: SET_SUSPEND_STATUS true
+[10/09/19, 17:15:46:913] info: Store: SET_NETWORK_STATUS online
+[10/09/19, 17:15:57:969] error: Oct-9 17:15:57.968 can't ingest custom emoji ::carlton:: because it's invalid
+[10/09/19, 17:15:58:707] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/09/19, 17:15:58:726] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/09/19, 17:16:24:915] info: Store: SET_FULL_SCREEN
+[10/09/19, 17:16:25:799] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/09/19, 17:16:45:322] info: Store: SET_FULL_SCREEN
+[10/09/19, 17:59:51:742] info: Store: SET_FULL_SCREEN
+[10/09/19, 18:00:18:855] info: Store: SET_FULL_SCREEN
+[10/09/19, 18:03:03:317] info: Store: SET_FULL_SCREEN
+[10/09/19, 18:03:04:250] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/09/19, 18:03:11:179] info: Store: SET_FULL_SCREEN
+[10/09/19, 18:11:36:782] info: Store: SET_SUSPEND_STATUS
+[10/09/19, 18:11:38:908] info: Store: SET_NETWORK_STATUS offline
+[10/10/19, 18:28:34:615] info: Store: SET_SUSPEND_STATUS true
+[10/10/19, 18:28:49:822] error: Oct-10 18:28:49.822 can't ingest custom emoji ::carlton:: because it's invalid
+[10/10/19, 18:28:50:028] info: Store: SET_NETWORK_STATUS online
+[10/10/19, 18:28:50:029] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/10/19, 18:28:51:789] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/10/19, 21:21:55:063] info: Store: SET_SUSPEND_STATUS
+[10/10/19, 21:21:59:505] info: Store: SET_NETWORK_STATUS offline
+[10/11/19, 07:56:54:630] info: Store: SET_SUSPEND_STATUS true
+[10/11/19, 07:57:03:682] info: Store: SET_NETWORK_STATUS online
+[10/11/19, 07:57:06:971] error: Oct-11 07:57:06.971 can't ingest custom emoji ::carlton:: because it's invalid
+[10/11/19, 07:57:08:680] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/11/19, 07:57:08:682] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/11/19, 07:57:15:453] info: Store: SET_FULL_SCREEN
+[10/11/19, 07:57:15:482] info: Store: SAVE_WINDOW_SETTINGS
+{
+  "isMaximized": false,
+  "position": [
+    69,
+    57
+  ],
+  "size": [
+    965,
+    711
+  ]
+}
+[10/11/19, 07:57:39:415] info: Store: SET_FULL_SCREEN
+[10/11/19, 07:59:55:684] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "page-will-navigate",
+  "teamId": "T077KKCG6"
+}
+[10/11/19, 07:59:55:834] info: Window is unloading, window.desktop is no longer accessible
+[10/11/19, 07:59:56:911] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T077KKCG6"
+}
+[10/11/19, 07:59:57:816] info: ╔═════════════════════════════════════════════════════════════════════════════════╗
+[10/11/19, 07:59:57:818] info: ║      Slack 3.3.8, linux 4.15.0-20-generic on x64 at 10/11/19, 07:59:57:812      ║
+[10/11/19, 07:59:57:818] info: ╚═════════════════════════════════════════════════════════════════════════════════╝
+[10/11/19, 07:59:57:973] info: Initializing local storage instance at path: /home/peter/.config/Slack/local-settings.json
+[10/11/19, 07:59:58:453] info: Read UUID from file successful
+{
+  "uuid": "0354bf9a-e196-5730-b520-4d44c18831b1"
+}
+[10/11/19, 07:59:59:052] info: cld3::loadModule: loading cld3 module
+[10/11/19, 07:59:59:087] info: cld3Loader::loadModule: running environment is NODE
+[10/11/19, 07:59:59:087] info: cld3Loader::loadModule: constructed module object for runtime
+[10/11/19, 07:59:59:174] info: SpellChecker:: updateSpellcheckerLanguage: Skip to set new language null, v2 spellchecker is not available
+[10/11/19, 07:59:59:193] info: Main window preload script finished
+{
+  "readyTime": 2158.197796
+}
+[10/11/19, 07:59:59:849] info: cld3Loader::initializeRuntime: successfully initialized module
+[10/11/19, 07:59:59:849] info: cld3Loader::loadModule: initialized wasm binary Runtime
+[10/11/19, 08:00:12:071] info: Store: UPDATE_SETTINGS
+{
+  "userTheme": "light"
+}
+[10/11/19, 08:00:12:074] info: Store: UPDATE_SETTINGS
+{
+  "systemThemeSyncEnabled": false
+}
+[10/11/19, 08:00:12:553] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "loaded",
+  "teamId": "T077KKCG6"
+}
+[10/11/19, 08:00:12:912] info: Store: UPDATE_SESSION_STATUS
+{
+  "hasValidSession": true,
+  "teamId": "T077KKCG6"
+}
+[10/11/19, 08:00:14:225] error: Oct-11 08:00:14.225 can't ingest custom emoji ::carlton:: because it's invalid
+[10/11/19, 08:00:14:386] info: Skipping request to provide hint content for channel for spellchecker
+{
+  "version": "V2"
+}
+[10/11/19, 08:00:15:048] info: postLoadTaskSetup: Desktop client fully loaded
+{
+  "loadedTime": 35341563.200841
+}
+[10/11/19, 08:00:15:062] info: Store: UPDATE_TEAM_ICONS
+{
+  "icons": {
+    "image_102": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_102.png",
+    "image_132": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_132.png",
+    "image_230": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_230.png",
+    "image_34": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_34.png",
+    "image_44": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_44.png",
+    "image_68": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_68.png",
+    "image_88": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_88.png",
+    "image_original": "https://avatars.slack-edge.com/2016-06-08/49221502963_e752abd663f106913c95_original.png"
+  },
+  "teamId": "T077KKCG6"
+}
+[10/11/19, 08:00:15:063] info: Store: SELECT_CHANNEL GN47Z099B
+[10/11/19, 08:00:15:064] info: Store: UPDATE_TEAM_LOCALE
+{
+  "locale": "en-US",
+  "teamId": "T077KKCG6"
+}
+[10/11/19, 08:00:15:066] info: Store: UPDATE_TEAM_THEME
+{
+  "teamId": "T077KKCG6",
+  "theme": {
+    "active_item": "#1264A3",
+    "active_item_text": "#FFFFFF",
+    "active_presence": "#2BAC76",
+    "badge": "#CD2553",
+    "column_bg": "#3F0E40",
+    "hover_item": "#350D36",
+    "menu_bg": "#350d36",
+    "text_color": "#FFFFFF"
+  }
+}
+[10/11/19, 08:00:15:068] info: Store: UPSERT_WEB_CONTENTS
+{
+  "id": 3,
+  "state": "webapp-loaded",
+  "teamId": "T077KKCG6"
+}
+[10/11/19, 08:00:15:257] info: Store: STORE_ENTERPRISE_ID_PAIR
+{
+  "enterpriseId": null,
+  "teamId": "T077KKCG6"
+}

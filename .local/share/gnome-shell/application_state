@@ -1,13 +1,15 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="4.875" last-seen="1568992143"/>
-    <application id="gnome-control-center.desktop" open-window-count="0" score="9586935.1875" last-seen="1568957110"/>
-    <application id="slack.desktop" open-window-count="0" score="61.625" last-seen="1568991759"/>
-    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="83.03125" last-seen="1569170421"/>
-    <application id="eog.desktop" open-window-count="0" score="1.125" last-seen="1568966028"/>
-    <application id="code.desktop" open-window-count="0" score="4686" last-seen="1569162136"/>
-    <application id="google-chrome.desktop" open-window-count="2" score="11992.921875" last-seen="1569171240"/>
-    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="1575.703125" last-seen="1569171236"/>
+    <application id="org.gnome.FileRoller.desktop" open-window-count="0" score="0.36279296875" last-seen="1570101462"/>
+    <application id="gnome-control-center.desktop" open-window-count="0" score="37457.106201171875" last-seen="1570519849"/>
+    <application id="file-roller.desktop" open-window-count="0" score="0" last-seen="1570519774"/>
+    <application id="slack.desktop" open-window-count="1" score="77.51416015625" last-seen="1570769859"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="1" score="91.5352783203125" last-seen="1570771832"/>
+    <application id="code.desktop" open-window-count="1" score="3925.4296875" last-seen="1570772017"/>
+    <application id="google-chrome.desktop" open-window-count="1" score="11407.230163574219" last-seen="1570772030"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="0.51171875" last-seen="1570515022"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="0" score="280.23321533203125" last-seen="1570543741"/>
+    <application id="thunderbird.desktop" open-window-count="0" score="1.5" last-seen="1570519856"/>
   </context>
 </application-state>

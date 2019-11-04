@@ -1,0 +1,4503 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/peter/Desktop/mapambo
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git ls-files --stage -- ./
+> git show :index.html
+> git show :customersignup.html
+> git ls-files --stage -- ./
+> git show :index.html
+> git show :customersignup.html
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :index.html
+> git check-ignore -z --stdin
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :index.html
+> git show :customersignup.html
+> git show :index.html
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git check-ignore -z --stdin
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :css/signup.css
+> git ls-files --stage -- css/
+> git show :stylistsignup.html
+> git show :css/signup.css
+> git ls-files --stage -- css/
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Login.html
+> git show :css/login.css
+> git show :Login.html
+> git show :css/login.css
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/signup.css
+> git show :css/login.css
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git show :css/signup.css
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git show :Login.html
+> git show :css/signup.css
+> git show :Login.html
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Login.html
+> git show :customersignup.html
+> git show :css/login.css
+> git show :css/signup.css
+> git show :Login.html
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Login.html
+> git show :css/login.css
+> git show :Login.html
+> git show :css/login.css
+> git show :Login.html
+> git show :customersignup.html
+> git show :Login.html
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/signup.css
+> git show :css/login.css
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :Login.html
+> git show :css/login.css
+> git show :css/signup.css
+> git show :css/login.css
+> git show :Login.html
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git show :css/signup.css
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Login.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git show :Login.html
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Login.html
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Login.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Login.html
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git show :css/signup.css
+> git show :Login.html
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git show :customersignup.html
+> git show :css/login.css
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :css/login.css
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/login.css
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :css/signup.css
+> git show :stylistsignup.html
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git show :stylistsignup.html
+> git show :customersignup.html
+> git show :stylistsignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :js/signup.js
+> git ls-files --stage -- js/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :js/signup.js
+> git ls-files --stage -- js/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :js/signup.js
+> git ls-files --stage -- js/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :js/signup.js
+> git ls-files --stage -- js/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :js/signup.js
+> git ls-files --stage -- js/
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :js/signup.js
+> git ls-files --stage -- js/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :js/signup.js
+> git ls-files --stage -- js/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :js/signup.js
+> git ls-files --stage -- js/
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :js/signup.js
+> git ls-files --stage -- js/
+> git show :customersignup.html
+> git show :Login.html
+> git show :css/signup.css
+> git show :customersignup.html
+> git show :css/signup.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :customersignup.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse signup
+> git rev-parse --symbolic-full-name signup@{u}
+fatal: no upstream configured for branch 'signup'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :js/signup.js
+> git ls-files --stage -- js/
+> git show :customersignup.html
+> git show :js/signup.js
+> git ls-files --stage -- js/

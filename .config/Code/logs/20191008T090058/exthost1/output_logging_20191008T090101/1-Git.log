@@ -1,0 +1,10 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/peter
+> git status -z -u
+> git show :Desktop/mapambo/signup.html
+> git ls-files --stage -- Desktop/mapambo/
+> git show :Desktop/mapambo/customersignup.html
+> git ls-files --stage -- Desktop/mapambo/

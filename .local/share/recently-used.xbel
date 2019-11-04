@@ -107,22 +107,22 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/peter/Downloads/bootstrap-4.3.1-dist.zip" added="2019-09-16T06:45:05Z" modified="2019-09-20T09:03:23Z" visited="2019-09-16T06:45:05Z">
+  <bookmark href="file:///home/peter/Downloads/bootstrap-4.3.1-dist.zip" added="2019-09-16T06:45:05Z" modified="2019-10-03T09:26:10Z" visited="2019-09-16T06:45:05Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/zip"/>
         <bookmark:applications>
-          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-09-20T09:03:23Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-10-03T09:26:10Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/peter/Desktop" added="2019-09-16T06:45:48Z" modified="2019-09-16T06:45:48Z" visited="2019-09-16T06:45:48Z">
+  <bookmark href="file:///home/peter/Desktop" added="2019-09-16T06:45:48Z" modified="2019-10-01T09:38:26Z" visited="2019-09-16T06:45:48Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2019-09-16T06:45:48Z" count="1"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2019-10-01T09:38:26Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -252,12 +252,324 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/peter/Desktop/IP2/pictures/ql.jpeg" added="2019-09-21T12:08:37Z" modified="2019-09-21T12:08:37Z" visited="2019-09-21T12:08:37.926690Z">
+  <bookmark href="file:///home/peter/Desktop/IP2/pictures/ql.jpeg" added="2019-09-21T12:08:37Z" modified="2019-09-21T12:08:37Z" visited="2019-09-21T12:08:37Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/jpeg"/>
         <bookmark:applications>
           <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-09-21T12:08:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/IP3/js/scripts.js" added="2019-09-27T16:14:21Z" modified="2019-09-27T16:14:21Z" visited="2019-09-27T16:14:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-09-27T16:14:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Downloads/address-book-master.zip" added="2019-10-01T09:38:17Z" modified="2019-10-01T09:38:17Z" visited="2019-10-01T09:38:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2019-10-01T09:38:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/address-book-master/moringa-school-projects/hello-world/README.md" added="2019-10-01T11:50:53Z" modified="2019-10-01T11:53:15Z" visited="2019-10-01T11:50:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-01T11:53:15Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/address" added="2019-10-02T13:26:13Z" modified="2019-10-02T13:26:13Z" visited="2019-10-02T13:26:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-10-02T13:26:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/logo/pizza.jpg" added="2019-10-03T09:04:59Z" modified="2019-10-03T09:04:59Z" visited="2019-10-03T09:04:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-03T09:04:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/css" added="2019-10-03T09:26:30Z" modified="2019-10-03T09:26:30Z" visited="2019-10-03T09:26:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2019-10-03T09:26:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/pizz.jpg" added="2019-10-03T10:58:31Z" modified="2019-10-03T10:58:31Z" visited="2019-10-03T10:58:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-03T10:58:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/con.jpeg" added="2019-10-03T11:20:40Z" modified="2019-10-03T11:20:40Z" visited="2019-10-03T11:20:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-03T11:20:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/man.jpeg" added="2019-10-04T05:21:28Z" modified="2019-10-04T05:21:28Z" visited="2019-10-04T05:21:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-04T05:21:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/m1.jpeg" added="2019-10-04T08:14:54Z" modified="2019-10-04T08:14:54Z" visited="2019-10-04T08:14:55Z">
+    <title>m1.jpeg</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable file:///home/peter/Desktop/Pizza/images/p1.jpeg&apos;" modified="2019-10-04T08:14:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/chicken%20f.png" added="2019-10-04T08:17:47Z" modified="2019-10-04T08:17:47Z" visited="2019-10-04T08:17:48Z">
+    <title>chicken f.png</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable file:///home/peter/Desktop/Pizza/images/c1.png&apos;" modified="2019-10-04T08:17:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/chicken%20t.png" added="2019-10-04T08:19:58Z" modified="2019-10-04T08:19:58Z" visited="2019-10-04T08:19:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-04T08:19:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/chicken%20s.png" added="2019-10-04T08:20:40Z" modified="2019-10-04T08:20:40Z" visited="2019-10-04T08:20:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-04T08:20:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/pizz%20mag.jpg" added="2019-10-04T08:21:59Z" modified="2019-10-04T08:21:59Z" visited="2019-10-04T08:21:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-04T08:21:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/tan.png" added="2019-10-04T08:23:27Z" modified="2019-10-04T08:23:27Z" visited="2019-10-04T08:23:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-04T08:23:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/extra.jpeg" added="2019-10-04T09:27:56Z" modified="2019-10-04T09:27:56Z" visited="2019-10-04T09:27:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-04T09:27:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/pizza3.png" added="2019-10-04T09:47:18Z" modified="2019-10-04T09:47:18Z" visited="2019-10-04T09:47:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-04T09:47:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/cupon.png" added="2019-10-04T09:53:42Z" modified="2019-10-04T09:53:42Z" visited="2019-10-04T09:53:42Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-04T09:53:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/pan.jpeg" added="2019-10-04T11:48:34Z" modified="2019-10-04T11:48:34Z" visited="2019-10-04T11:48:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-04T11:48:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/Pizza/images/fab.jpeg" added="2019-10-04T11:52:36Z" modified="2019-10-04T11:52:36Z" visited="2019-10-04T11:52:37Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-04T11:52:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/mapambo/signup.html" added="2019-10-08T05:57:25Z" modified="2019-10-08T06:01:47Z" visited="2019-10-08T05:57:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2019-10-08T06:00:58Z" count="2"/>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2019-10-08T06:01:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/mapambo.zip" added="2019-10-08T07:34:49Z" modified="2019-10-08T07:34:49Z" visited="2019-10-08T07:34:50Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-08T07:34:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/mapambo" added="2019-10-08T07:36:27Z" modified="2019-10-08T07:36:27Z" visited="2019-10-08T07:36:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="google-chrome-stable" exec="&apos;google-chrome-stable %u&apos;" modified="2019-10-08T07:36:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/mapambo/stylistsignup.html" added="2019-10-08T07:59:59Z" modified="2019-10-09T04:53:04Z" visited="2019-10-08T08:00:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2019-10-09T04:53:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/mapambo/css/login.css" added="2019-10-08T08:52:12Z" modified="2019-10-08T08:52:12Z" visited="2019-10-08T08:52:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2019-10-08T08:52:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/mapambo/Login.html" added="2019-10-08T08:53:14Z" modified="2019-10-09T06:51:37Z" visited="2019-10-08T08:53:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2019-10-09T06:51:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/mapambo/index.html" added="2019-10-09T04:53:54Z" modified="2019-10-09T04:53:54Z" visited="2019-10-09T04:53:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2019-10-09T04:53:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/mapambo/js/script.js" added="2019-10-09T04:54:48Z" modified="2019-10-09T04:54:48Z" visited="2019-10-09T04:54:48Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2019-10-09T04:54:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/mapambo/customersignup.html" added="2019-10-09T04:55:53Z" modified="2019-10-09T04:55:53Z" visited="2019-10-09T04:55:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;/usr/share/code/code --unity-launch %F&apos;" modified="2019-10-09T04:55:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/peter/Desktop/mapambo/services.html" added="2019-10-09T14:34:24Z" modified="2019-10-09T14:34:24Z" visited="2019-10-09T14:34:24.550837Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2019-10-09T14:34:24Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
