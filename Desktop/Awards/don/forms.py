@@ -20,4 +20,8 @@ class NewProfileForm(forms.ModelForm):
 class NewRatingForm(forms.ModelForm):
     class Meta:
         model=Rating
+        exclude=['editor','projects']
+        widgets={
+            'tags':forms.CheckboxSelectMultiple
+        }
         
