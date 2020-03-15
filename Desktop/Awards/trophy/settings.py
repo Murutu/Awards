@@ -81,9 +81,12 @@ WSGI_APPLICATION = 'trophy.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'trophy',
-        'USER': 'awards',
+        'NAME': 'awards',
+        'USER': 'peter',
         'PASSWORD':'ozil',
+        'HOST': 'localhost', # the missing piece of the puzzle 
+        'PORT': '', # optional, I don't need this since I'm using the standard port
+        
     }
 }
 
