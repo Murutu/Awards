@@ -22,5 +22,10 @@ class ProjectTestClass(TestCase):
         self.projects.delete_project()
         allprojects=Project.objects.all()
         self.assertTrue(len(allprojects)==0)
+        
+    def test_get_projects(self):
+        self.projects.save_project()
+        firstproject=Project.get_projects()
+        self.assertTrue(firstproject is not None)
     
 
