@@ -11,3 +11,21 @@ class Profile(models.Model):
     
     def save_profile(self):
         self.save()
+        
+    def delete_profile(self):
+        self.delete()
+        
+    @classmethod
+    def get_profile(cls):
+        profile=cls.objects.all()
+        return profile
+    
+    @classmethod
+    def single_profile(cls,user_id):
+        profile=cls.objects.filter(editor=user_id)
+        return profile
+    
+    @classmethod
+    def get_profilepic_id(cls,imageId):
+        profile = cls.objects.filter(id=imageId)
+        return imageId
