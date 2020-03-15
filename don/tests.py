@@ -8,5 +8,8 @@ class ProjectTestClass(TestCase):
         self.newuser=User(username='peter')
         self.newuser.save()
         self.projects=Project(title='proj',image='img.jpg',description='fullstackdeveloper',editor=self.newuser)
+        
+    def test_instance(self):
+            self.assertTrue(isinstance(self.projects,Project))
     
 
