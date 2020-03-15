@@ -3,3 +3,6 @@ from .models import Project
 
 # Create your tests here.
 
+class ProjectTestClass(TestCase):
+    
+
