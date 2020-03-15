@@ -29,3 +29,9 @@ class Profile(models.Model):
     def get_profilepic_id(cls,imageId):
         profile = cls.objects.filter(id=imageId)
         return imageId
+    
+    
+class Project(models.Model):
+    title = models.CharField(max_length=50)
+    image = models.ImageField(upload_to='images/',blank=True)
+    
