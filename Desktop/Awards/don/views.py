@@ -1,6 +1,7 @@
 from django.shortcuts import render,redirect,get_object_or_404
 from django.http import HttpResponse,Http404,HttpResponseRedirect
 from .forms import NewProjectForm,NewRatingForm,NewProfileForm
+from django.core.exceptions import  ObjectDoesNotExist
 from .models import Profile,Project,Rating
 from django.contrib.auth.models import User
 from django.contrib.auth.decorators import login_required
