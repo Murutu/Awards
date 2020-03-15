@@ -10,6 +10,11 @@ class ProjectTestClass(TestCase):
         self.projects=Project(title='proj',image='img.jpg',description='fullstackdeveloper',editor=self.newuser)
         
     def test_instance(self):
-            self.assertTrue(isinstance(self.projects,Project))
+        self.assertTrue(isinstance(self.projects,Project))
+            
+    def test_save_project(self):
+        self.projects.save_project()
+        allprojects=Project.objects.all()
+        self.assertTrue(len(allprojects)>0)
     
 
