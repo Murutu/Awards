@@ -2,6 +2,7 @@ from django.shortcuts import render,redirect,get_object_or_404
 from django.http import HttpResponse,Http404,HttpResponseRedirect
 from .models import Profile,Project,Rating
 from django.contrib.auth.models import User
+from django.contrib.auth.decorators import login_required
 
 # Create your views here.
 @login_required(login_url='/accounts/login')
