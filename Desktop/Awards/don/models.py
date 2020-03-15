@@ -36,5 +36,10 @@ class Project(models.Model):
     title = models.CharField(max_length=50)
     image = models.ImageField(upload_to='images/',blank=True)
     description = HTMLField()
+    link = models.URLField(max_length=100,db_index=True,unique=True,blank=True)
+    editor=models.ForeignKey(User,on_delete=models.CASCADE)
+    profile=models.ForeignKey(Profile,null=True)
+    pub_date=models.DateTimeField(auto_now_add=True)
+    
     
     
