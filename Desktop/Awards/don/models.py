@@ -38,7 +38,7 @@ class Project(models.Model):
     description = HTMLField()
     link = models.URLField(max_length=100,db_index=True,unique=True,blank=True)
     editor=models.ForeignKey(User,on_delete=models.CASCADE)
-    profile=models.ForeignKey(Profile,null=True)
+    profile=models.ForeignKey(User,null=True,blank=True)
     pub_date=models.DateTimeField(auto_now_add=True)
     
     def __str__(self):
