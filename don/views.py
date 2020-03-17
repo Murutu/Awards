@@ -7,7 +7,9 @@ from django.contrib.auth.models import User
 from django.contrib.auth.decorators import login_required
 from django.contrib import messages
 from rest_framework.response import Response
-from rest_framework.views import APIView 
+from rest_framework.views import APIView
+from .models import Profile,Project,Rating
+from .serializer import ProfileSerializer,ProjectSerializer 
 
 # Create your views here.
 @login_required(login_url='/accounts/login')
