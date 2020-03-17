@@ -102,6 +102,20 @@
                 <div>
                 <h1>{{projects.editor.username}}</h1>
             </div>
+            <h2>Posted:{{projects.pub_date}}</h2>
+            <h2>Title:{{projects.title}}</h2>
+            <h2>Description:{{projects.description|safe}}</h2>
+            <a href="{{projects.link}}">Project Link: {{projects.link}}</a>
+
+
+            <div>
+                <img src="{{projects.image.url}}" alt="image" height="300px;" width="300px;">
+            </div>
+
+            <div>
+                <a href="{%url 'project' projects.id%}">View more about this project</a>
+            </div>
+            {%endif%}
             </div>
         </div>
     </header>
