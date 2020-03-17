@@ -17,3 +17,11 @@
     {%endblock%}
 
 </head>
+
+<body id="page-top">
+
+    <!-- Navigation -->
+    {% if user.is_authenticated %}
+    <a class="menu-toggle rounded" href="#">{{user.username}}
+        <i class="fas fa-bars"></i>
+    </a>
