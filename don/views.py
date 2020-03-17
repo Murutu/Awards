@@ -22,6 +22,15 @@ class ProfileList(APIView):
         serializers =ProfileSerializer(all_profile,many=True)
         return Response(serializers.data)
     
+class ProjectList(APIView):
+    '''
+    Endpoint that returns all projects posted and their details
+    '''
+    def get(self,request,format=None):
+        all_projects = Project.objects.all()
+        serializers = ProjectSerializer(all_projects,many=True)
+        return Response(serializers.data)
+    
 
 # Create your views here.
 @login_required(login_url='/accounts/login')
