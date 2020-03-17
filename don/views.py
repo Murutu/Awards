@@ -9,7 +9,19 @@ from django.contrib import messages
 from rest_framework.response import Response
 from rest_framework.views import APIView
 from .models import Profile,Project,Rating
-from .serializer import ProfileSerializer,ProjectSerializer 
+from .serializer import ProfileSerializer,ProjectSerializer
+
+
+
+class ProfileList(APIView):
+    '''
+    Endpoint that returns all profile details. 
+    '''
+    def get(self,request,format=None):
+        all_profile =Profile.objects.all()
+        serializers =ProfileSerializer(all_profile,many=True)
+        return Response(serializers.data)
+    
 
 # Create your views here.
 @login_required(login_url='/accounts/login')
