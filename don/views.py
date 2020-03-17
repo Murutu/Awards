@@ -5,7 +5,9 @@ from django.core.exceptions import  ObjectDoesNotExist
 from .models import Profile,Project,Rating
 from django.contrib.auth.models import User
 from django.contrib.auth.decorators import login_required
-from django.contrib import messages 
+from django.contrib import messages
+from rest_framework.response import Response
+from rest_framework.views import APIView 
 
 # Create your views here.
 @login_required(login_url='/accounts/login')
