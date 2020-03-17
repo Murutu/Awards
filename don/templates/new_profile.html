@@ -44,7 +44,7 @@
 
         <ul class="sidebar-nav">
             <li class="sidebar-brand">
-                <a href="#page-top">Project Hub</a>
+                <a href="#page-top">Projects</a>
             </li>
             <li class="sidebar-nav-item">
                 <a class="js-scroll-trigger" href="{%url 'home'%}">Home</a>
@@ -73,3 +73,18 @@
 
         </ul>
     </nav>
+
+     <!-- About -->
+     <header class="masthead " id="about">
+        <div class="container text-center my-auto">
+            <div class="row">
+                <div class="col-lg-10 mx-auto">
+                    <div class="col-lg-10 my-auto">
+                        <div class="device-container">
+
+                            <form action="{%url 'new-profile'%}" method="post" enctype="multipart/form-data">
+                                {%csrf_token%}
+
+                                {% bootstrap_form form%}
+                                <input type="submit" class="btn btn-success btn-lg" value="Post">
+                            </form>
