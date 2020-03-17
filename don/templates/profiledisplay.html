@@ -78,7 +78,30 @@
 
                         <h1>{{profile.editor.username}} Profile</h1>
                     </div>
+                    <img src="{{profile.profile_photo.url}}" class="img-fluid"
+                    style="height:300px;width:300px;">
                 </div>
+
+                <div>
+                    <h3>{{user.username}} bio: {{profile.bio}}</h3>
+                </div>
+
+                <div>
+                    <h3>Contact : {{profile.contact}}</h3>
+                </div>
+
+                {%endfor%}
+                {%else%}
+                <div>
+                    <h1 class="text-center">{{user.username}} has no profile</h1>
+                </div>
+                {%endif%}
+                {%endif%}
+                
+                {%if projects%}
+                <div>
+                <h1>{{projects.editor.username}}</h1>
+            </div>
             </div>
         </div>
     </header>
