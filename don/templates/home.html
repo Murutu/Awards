@@ -76,3 +76,45 @@
             <a class="btn btn-primary btn-xl btn-light js-scroll-trigger" href="#portfolio">View projects</a>
         </div> 
     </section>
+
+      <!-- Portfolio -->
+  <section class="content-section" id="portfolio">
+    <div class="container">
+      <div class="content-section-heading text-center">
+        <h2 class="mb-5">Recent Projects</h2>
+    </div>
+
+    <div class="row no-gutters">
+        {%for projects in allprojects%}
+        <div class="col-lg-6">
+          <a class="portfolio-item" href="{%url 'project' projects.id%}">
+            <span class="caption">
+              <span class="caption-content">
+                <h1>{{projects.title}}</h1>
+              </span>
+            </span>
+            <img src="{{projects.image.url}}" alt="projectimage" style="height:400px;width:100%;">
+          </a>
+        </div>
+        {%endfor%}
+
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+        <p>&copy; Awards Website 2020. All Rights Reserved.</p>
+        <ul class="list-inline">
+            <li class="list-inline-item">
+                <a href="#">Privacy</a>
+            </li>
+            <li class="list-inline-item">
+                <a href="#">Terms</a>
+            </li>
+            <li class="list-inline-item">
+                <a href="#">FAQ</a>
+            </li>
+        </ul>
+    </div>
+</footer>
