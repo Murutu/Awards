@@ -1,0 +1,19 @@
+{%load bootstrap3%}
+{%load static%}
+{{block.super}}
+{%block content%}
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Home</title>
+    {{form.media}}
+
+    {%block styles%}
+    <link href="{% static 'css/awards.css' %}" rel="stylesheet">
+    {%endblock%}
+
+</head>
