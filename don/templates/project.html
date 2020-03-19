@@ -1,3 +1,4 @@
+{% extends 'base.html' %}
 {%load bootstrap3%}
 {%load static%}
 {{block.super}}
@@ -46,7 +47,7 @@
                 <a href="{%url 'new-profile'%}">New Profile</a>
             </li>
             <li class="sidebar-nav-item">
-                <a href="{% url 'displayprofile' user.id %}">View Profile</a>
+                <a href="{% url 'profile' user.id %}">View Profile</a>
             </li>
             <li class="sidebar-nav-item">
                 <a href="/accounts/password/change">Change password</a>
@@ -78,7 +79,7 @@
                     <h2>Description:{{project.description|safe}}This project can be viewed at
                         <a href="">{{project.link}}</a>.</h2>
                         <br>
-                    <a class="btn btn-dark btn-xl js-scroll-trigger" href="{% url 'displayprofile' project.editor.id %}">View Editor Profile</a>
+                    <a class="btn btn-dark btn-xl js-scroll-trigger" href="{% url 'profile' project.editor.id %}">View Editor Profile</a>
                     <form style="box-shadow: 3px 3px 3px 3px black; " id="rate" action="{%url 'rate' %}" method='post'
                     enctype="multipart/form-data">
                     {% csrf_token %}

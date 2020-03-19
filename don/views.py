@@ -12,7 +12,6 @@ from .models import Profile,Project,Rating
 from .serializer import ProfileSerializer,ProjectSerializer
 
 
-
 class ProfileList(APIView):
     '''
     Endpoint that returns all profile details. 
@@ -31,7 +30,7 @@ class ProjectList(APIView):
         serializers = ProjectSerializer(all_projects,many=True)
         return Response(serializers.data)
     
-
+    
 # Create your views here.
 @login_required(login_url='/accounts/login')
 def home(request):
@@ -42,31 +41,25 @@ def home(request):
         profile=Profile.objects.filter(editor=logged_in_user)
     except Profile.DoesNotExist:
         profile=None
-        return render('home.html',{"project":logged_in_user_projects,"profile":profile,"allprojects":all_projects})
+    return render(request,'home.html',{"project":logged_in_user_projects,"profile":profile,"allprojects":all_projects})
     
 @login_required(login_url='/accounts/login')
 def new_project(request):
     current_user = request.user
     if request.method == 'POST':
-        form = NewProjectForm(request.POST.rquest.FILES)
+        form = NewProjectForm(request.POST,request.FILES)
         if form.is_valid():
             project =form.save(commit=False)
             project.editor =current_user
             project.save()
             return redirect('home')
-        else:
-            form = NewProjectForm()
-            return render(request,'new_project.html',{"form":form})
+    else:
+        form = NewProjectForm()
+    return render(request,'new_project.html',{"form":form})
         
 @login_required(login_url='/accounts/login')
 def single_projects(request,project_id):
-    project_posted=Project.single_project(project_id)
-    imageId=Project.get_image_id(project_id)
-    rating=Rating.get_rating_byproject_id(project_id)
-    
-    design=Rating.design
-    usability=Rating.usability
-    content=Rating.content
+    project_posted=Project.objects.get(id=project_id)
     
     return render(request,'project.html',{"project":project_posted})
 
@@ -84,6 +77,13 @@ def new_profile(request):
     else:
         form= NewProfileForm()
     return render(request,'new_profile.html',{"form":form})
+
+@login_required(login_url='/accounts/login/')
+def profile(request,user_id):
+    user= request.user
+    current_user = Profile.objects.get(editor=user)
+    
+    return redirect("profile", user.username.id)
 
 @login_required(login_url='/accounts/login')
 def display_profile(request,user_id):

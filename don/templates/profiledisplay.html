@@ -1,3 +1,4 @@
+{% extends 'base.html' %}
 {%load bootstrap3%}
 {%load static%}
 {{block.super}}
@@ -42,7 +43,7 @@
                 <a href="{%url 'new-profile'%}">New Profile</a>
             </li>
             <li class="sidebar-nav-item">
-                <a href="{% url 'displayprofile' user.id %}">View Profile</a>
+                <a href="{% url 'profile' user.id %}">Views Profile</a>
             </li>
             <li class="sidebar-nav-item">
                 <a href="/accounts/password/change">Change password</a>
