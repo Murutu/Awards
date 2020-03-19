@@ -83,7 +83,8 @@ def profile(request,user_id):
     user= request.user
     current_user = Profile.objects.get(editor=user)
     
-    return redirect("profile", user.username.id)
+    return render(request,'profiledisplay.html', user.username.id)
+
 
 @login_required(login_url='/accounts/login')
 def display_profile(request,user_id):
