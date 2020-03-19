@@ -31,17 +31,16 @@
     <a class="menu-toggle rounded" href="#">{{user.username}}
         <i class="fas fa-bars"></i>
     </a>
-    <nav id="sidebar-wrapper">
-
-        <ul class="sidebar-nav">
-            <li class="sidebar-brand">
-                <a href="#page-top">Projects</a>
-            </li>
+    <nav class="navbar navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Awards</a>
+        <!-- <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button> -->
             <li class="sidebar-nav-item">
                 <a class="js-scroll-trigger" href="{%url 'home'%}">Home</a>
             </li>
             <li class="sidebar-nav-item">
-                <a href="{%url 'new-project' %}">New Project</a>
+                <a href="{%url 'new-project' %}">Post Project</a>
             </li>
             <li class="sidebar-nav-item">
                 <a href="{%url 'new-profile'%}">New Profile</a>
@@ -64,6 +63,7 @@
 
         </ul>
     </nav>
+
 
     <!-- About -->
     <header class="masthead " id="about">
