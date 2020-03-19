@@ -36,44 +36,6 @@
     {%endblock%}
 </head>
 
-<body id="page-top">
-    {% if user.is_authenticated %}
-    <a class="menu-toggle rounded" href="#">{{user.username}}
-        <i class="fas fa-bars"></i>
-    </a>
-    <nav id="sidebar-wrapper">
-
-        <ul class="sidebar-nav">
-            <li class="sidebar-brand">
-                <a href="#page-top">Projects</a>
-            </li>
-            <li class="sidebar-nav-item">
-                <a class="js-scroll-trigger" href="{%url 'home'%}">Home</a>
-            </li>
-            <li class="sidebar-nav-item">
-                <a href="{%url 'new-project' %}">New Project</a>
-            </li>
-            <li class="sidebar-nav-item">
-                <a href="{%url 'new-profile'%}">New Profile</a>
-            </li>
-            <li class="sidebar-nav-item">
-                <a href="{% url 'profile' user.id %}">View Profile</a>
-            </li>
-            <li class="sidebar-nav-item">
-                <a href="/accounts/password/change">Change password</a>
-            </li>
-            <li class="sidebar-nav-item">
-                <a href=" /logout">Log out</a>
-            </li>
-            {%else%}
-
-            <li class="sidebar-nav-item">
-                <a href=" /accounts/login">Log in</a>
-            </li>
-            {%endif%}
-
-        </ul>
-    </nav>
 
      <!-- About -->
      <header class="masthead " id="about">
