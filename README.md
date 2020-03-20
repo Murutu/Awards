@@ -6,9 +6,9 @@ Peter Murutu
 
 ### SetUp
 > Clone this repo to your desktop
-> run this in your terminal  ```sh $ "git remove set-url"``` if you wish to have it into your repository
+> run this in your terminal  ```$ "git remove set-url"``` if you wish to have it into your repository
 > create a directory for this project
-> run "pip install" in your terminal to install python packages and "pip update" to update the packages.
+> run ```$"pip install"```  in your terminal to install python packages and```$ "pip update"``` to update the packages.
 
 
 
